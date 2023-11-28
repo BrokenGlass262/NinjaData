@@ -15,7 +15,6 @@
   "streamDate": [2023, 12, 8],
   "charityCodes": ["potato", "banana", "pumpkin", "jackfruit"],
   "riddle": [
-{ "id":001, "question": "I will disappear every time you say my name. What am I?", "answer":"Silence"},
-{ "id":002, "question": "IZy my name. What am I?", "answer":"SASDASD"}
+{ "id":001, "question": "I will disappear every time you say my name. What am I?", "answer":"Silence"},{ "id":002, "question": "IZy my name. What am I?", "answer":"SASDASD"}
 ]
 }
