@@ -13,5 +13,8 @@
   "dailyBonusTypeA": [1, 2, 8, 7, 3, 6, 5],
   "dailyBonusTypeB": [1, 2, 9, 3, 4, 6, 5],
   "streamDate": [2023, 12, 8],
-  "charityCodes": ["potato", "banana", "pumpkin", "jackfruit"]
+  "charityCodes": ["potato", "banana", "pumpkin", "jackfruit"],
+  "riddle": [
+  {"id":001, "name": "I will disappear every time you say my name. What am I?", "answer":"Silence"},
+  {"id":002, "name": "I have a head and a tail, but no body. What am I?", "answer":"Coin"}]
 }
