@@ -1,1 +1,5 @@
-{"timezone":"UTC","timezone_offset":0,"timezone_offset_with_dst":0,"date":"2023-11-28","date_time":"2023-11-28 22:00:36","date_time_txt":"Tuesday, November 28, 2023 22:00:36","date_time_wti":"Tue, 28 Nov 2023 22:00:36 +0000","date_time_ymd":"2023-11-28T22:00:36+0000","date_time_unix":1701208836.681,"time_24":"22:00:36","time_12":"10:00:36 PM","week":48,"month":11,"year":2023,"year_abbr":"23","is_dst":false,"dst_savings":0}
+{
+  "gold": 3.4205550378169875e+102,
+  "elixir": 2883169390.2135468,
+  "elixirFromQuests": 111666406215024.4,
+}
