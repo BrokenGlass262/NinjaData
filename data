@@ -3,7 +3,7 @@
   "steam": [5, 1, 3],
   "ios": [5, 1, 3],
   "charityEvent": false,
-  "stream": false,
+  "charityStreamOnline": false,
   "streamLink": "https://www.twitch.tv/shamahan",
   "streamTimeUtc": 16,
   "bannerMinCost": "$25",
