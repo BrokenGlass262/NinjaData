@@ -35,7 +35,7 @@
 {"index":018, "question": "I am flat as a leaf, round as a ring. I have two eyes, but can't see a thing. What am I?", "answer":"Button"},
 {"index":019, "question": "I have millions of stories but cannot tell any. What am I?", "answer":"Library"},
 {"index":020, "question": "If you have three, you have three. If you have two, you have two but if you have one, you have none. What am I?", "answer":"Choice"},
-{"index":021, "question": "I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?", "answer":" echo"},
+{"index":021, "question": "I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?", "answer":"echo"},
 {"index":022, "question": "I always stay green no matter what. What am I?", "answer":"Fir"},
 {"index":023, "question": "I belong to you, yet everyone else uses me. What am I?", "answer":"name"},
 {"index":024, "question": "I have an eye but see nothing. What am I?", "answer":"Needle"}
