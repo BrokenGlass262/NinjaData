@@ -8,7 +8,7 @@
   "streamLink": "https://www.twitch.tv/shamahan",
   "streamTimeUtc": 16,
   "bannerMinCost": "$25",
-  "topDonors": "Be the Top donator!",
+  "topDonors": "Test Be the Top donator!",
   "allDonors": "Be the first donator!",
   "dailyBonusTypeA": [1, 2, 8, 7, 3, 6, 5],
   "dailyBonusTypeB": [1, 2, 9, 3, 4, 6, 5],
