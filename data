@@ -31,7 +31,7 @@
 { "id":14, "question": "If you have me, you will want to share me. But if you share me, you will no longer have me. What am I?", "answer":"Secret"},
 { "id":15, "question": "I’m light as a feather, yet the strongest man can’t hold me for more than 5 minutes. What am I?", "answer":"Breath"},
 { "id":16, "question": "I have a face but no eyes, hands but no arms. What am I?", "answer":"Clock"},
-{ "id":17, "question": "Spelled forwards I'm what you do every day, spelled backwards I'm something you hate. What am I?. What am I?", "answer":"Live"},
+{ "id":17, "question": "Spelled forwards I'm what you do every day, spelled backwards I'm something you hate. What am I?", "answer":"Live"},
 { "id":18, "question": "I am flat as a leaf, round as a ring. I have two eyes, but can't see a thing. What am I?", "answer":"Button"},
 { "id":19, "question": "I have millions of stories but cannot tell any. What am I?", "answer":"Library"},
 { "id":20, "question": "If you have three, you have three. If you have two, you have two but if you have one, you have none. What am I?", "answer":"Choice"},
