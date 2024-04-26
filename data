@@ -47,6 +47,17 @@
 { "id":30, "question": "Which word in the dictionary is always spelled incorrectly?", "answer":"incorrectly"},
 { "id":31, "question": "The person who built it sold it. The person who bought it never used it. The person who used it never saw it. What am I?", "answer":"Coffin"},
 { "id":32, "question": "What goes through a door but never goes in and never comes out?", "answer":"Keyhole"},
-{ "id":33, "question": "I am of most use when I'm broken. What am I?", "answer":"An egg"}
+{ "id":33, "question": "I am of most use when I'm broken. What am I?", "answer":"An egg"},
+{ "id":34, "question": "I'm not a bird, though I am feathered and have a nest. I am quick in flight but need to rest often. What am I?", "answer":"Arrow"},
+{ "id":35, "question": "A blind girl lost her pencil, her ring, and her dog, what did she lose first?", "answer":"Eyesight"},
+{ "id":36, "question": "What can fill an entire room but take no space?", "answer":"Light"},
+{ "id":37, "question": "How many letters are in 'alphabet'?", "answer":"8"},
+{ "id":38, "question": "Thirty white horses on a red hill, First they champ, Then they stamp, Then they stand still. What am I?", "answer":"Teeth"},
+{ "id":39, "question": "Voiceless it cries, Wingless flutters, Toothless bites, Mouthless mutters What am I?", "answer":"Wind"},
+{ "id":40, "question": "Clad in black, a master of disguise, with swift movements. I’m skilled in combat, stealthy as can be, A warrior of shadows. What am I?", "answer":"ninja"},
+{ "id":41, "question": "I cannot be seen, cannot be felt, cannot be heard, cannot be smelt. I lay in places least visited. What am I?", "answer":"Darkness"},
+{ "id":42, "question": "I devour all - birds, beasts, trees, flowers. I grind hard stones to meal, slay kings, ruin towns. What am I?", "answer":"Time"},
+{ "id":43, "question": "I lay in a box with no hinges, key, or a lid, yet golden treasure is hiddne inside me. What am I?", "answer":"egg"},
+{ "id":44, "question": "The all-knowing will never see me, yet to the fool I appear every week. What am I?", "answer":"Incorrect, keep searching"}
 ]
 }
