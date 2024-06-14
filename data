@@ -43,7 +43,7 @@
 { "id":26, "question": "I have a head but no hair. What am I?", "answer":"Pin"},
 { "id":27, "question": "I run, it runs, I stop, it runs What is it?", "answer":"Watch"},
 { "id":28, "question": "In order to throw it you'll need a hand, it never goes far though it might not land. What is it?", "answer":"Punch"},
-{ "id":29, "question": "I go round and round but always stay in my place. What am I?", "answer":"Washing Machine"},
+{ "id":29, "question": "I go round and round but always stay in my place. What am I?", "answer":"Clock"},
 { "id":30, "question": "Which word in the dictionary is always spelled incorrectly?", "answer":"incorrectly"},
 { "id":31, "question": "The person who built it sold it. The person who bought it never used it. The person who used it never saw it. What am I?", "answer":"Coffin"},
 { "id":32, "question": "What goes through a door but never goes in and never comes out?", "answer":"Keyhole"},
