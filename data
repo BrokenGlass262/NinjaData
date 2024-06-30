@@ -39,7 +39,7 @@
 { "id":41, "question": "I cannot be seen, cannot be felt, cannot be heard, cannot be smelt. I lay in places least visited. What am I?", "answer":"Darkness"},
 { "id":42, "question": "I devour all - birds, beasts, trees, flowers. I grind hard stones to meal, slay kings, ruin towns. What am I?", "answer":"Time"},
 { "id":43, "question": "I lay in a box with no hinges, key, or a lid, yet golden treasure is hiddne inside me. What am I?", "answer":"egg"},
-{ "id":44, "question": "The all-knowing will never see me, yet to the fool I appear every week. What am I?", "answer":"Incorrect, keep searching"},
+{ "id":44, "question": "The all-knowing will never see me, yet to the fool I appear every week. What am I?", "answer":"Incorrect keep searching"},
 { "id":45, "question": "I am always hungry and will die if not fed, but whatever I touch will soon turn red. What am I?", "answer":"fire"}
 ]
 }
