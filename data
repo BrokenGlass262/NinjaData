@@ -28,7 +28,7 @@
 { "id":30, "question": "Which word in the dictionary is always spelled incorrectly?", "answer":"incorrectly"},
 { "id":31, "question": "The person who built it sold it. The person who bought it never used it. The person who used it never saw it. What am I?", "answer":"Coffin"},
 { "id":32, "question": "What goes through a door but never goes in and never comes out?", "answer":"Keyhole"},
-{ "id":33, "question": "I am of most use when I'm broken. What am I?", "answer":"An egg"},
+{ "id":33, "question": "I am of most use when I'm broken. What am I?", "answer":"egg"},
 { "id":34, "question": "I'm not a bird, though I am feathered and have a nest. I am quick in flight but need to rest often. What am I?", "answer":"Arrow"},
 { "id":35, "question": "A blind girl lost her pencil, her ring, and her dog, what did she lose first?", "answer":"Eyesight"},
 { "id":36, "question": "What can fill an entire room but take no space?", "answer":"Light"},
