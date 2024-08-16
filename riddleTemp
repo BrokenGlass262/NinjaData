@@ -3,7 +3,7 @@
   "steam": [6, 0, 7],
   "ios": [6, 0, 7],
   "dailyBonusBonus": [0, 7.5, 15, 5, 15, 10, 10, 15, 10, 10],
-  "charityEvent": true,
+  "charityEvent": false,
   "charityStreamOnline": false,
   "streamLink": "https://www.twitch.tv/shamahan",
   "streamTimeUtc": 15,
