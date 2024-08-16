@@ -12,7 +12,7 @@
   "allDonors": "Be the first donator!",
   "dailyBonusTypeA": [1, 2, 8, 7, 3, 6, 5],
   "dailyBonusTypeB": [1, 2, 9, 3, 4, 6, 5],
-  "streamDate": [2024, 8, 16],
+  "streamDate": [2024, 8, 27],
   "charityCodes": ["potatoZZZZZZZZZZZZZZZZZZZZ", "bananaZZZZZZZZZZZZZZZZZZZZ", "pumpkinZZZZZZZZZZZZZZZZZZZZ", "dragonfruitZZZZZZZZZZZZZZZZZZZZ"],
   "riddle": [
 { "id":36, "question": "What can fill an entire room but take no space?", "answer":"Light"},
