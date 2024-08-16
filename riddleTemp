@@ -1,24 +1,45 @@
-001=I will disappear every time you say my name. What am I?:Silence
-002=I have a head and a tail, but no body. What am I?:Coin
-003=I have teeth but no mouth. What am I?:Saw
-004=I come in many different sizes, but I'm always only 1 foot long. What am I?:Shoe
-005=What goes round and round the wood but never goes into the wood?:Bark
-006=I’m tall when I’m young, and I’m short when I’m old. What am I?:Candle
-007=What tastes better than it smells?:Tongue
-008=I'm not alive, but I can grow. I don't have lungs, but I need air. I don't have a mouth, but water defeats me. What am I?:Fire
-009=Careful, if you eat me, you risk being eaten. What am I?:Fishhook
-010=I have six faces and 21 eyes. What am I?:Dice
-011=What is dark but made by light?:Shadow
-012=I am full of holes yet strong as steel. What am I?:Chain
-013=What am I?:Riddle
-014=If you have me, you will want to share me. But if you share me, you will no longer have me. What am I?:Secret
-015=I’m light as a feather, yet the strongest man can’t hold me for more than 5 minutes. What am I?:Breath
-016=I have a face but no eyes, hands but no arms. What am I?:Clock
-017=Spelled forwards I'm what you do every day, spelled backwards I'm something you hate. What am I?. What am I?:Live
-018=I am flat as a leaf, round as a ring. I have two eyes, but can't see a thing. What am I?:Button
-019=I have millions of stories but cannot tell any. What am I?:Library
-020=If you have three, you have three. If you have two, you have two but if you have one, you have none. What am I?:Choice
-021=I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?: echo
-022=I always stay green no matter what. What am I?:Fir
-023=I belong to you, yet everyone else uses me. What am I?:name
-024=I have an eye but see nothing. What am I?:Needle
+{
+  "android": [6, 0, 7],
+  "steam": [6, 0, 7],
+  "ios": [6, 0, 7],
+  "dailyBonusBonus": [0, 7.5, 15, 5, 15, 10, 10, 15, 10, 10],
+  "charityEvent": false,
+  "charityStreamOnline": false,
+  "streamLink": "https://www.twitch.tv/shamahan",
+  "streamTimeUtc": 16,
+  "bannerMinCost": "$25",
+  "topDonors": "1: Ashewyn + Elgato<br>2: I eat children<br>3: FireMonkees<br>4: KaoruDark<br>5: Tostiman Ultimate<br>zieloooon, PetaZamurai, damon182004, Bassmastertoad, Cherry",
+  "allDonors": "NalaPaw, Gregbre, SAE_Wraith_1751, Suprax, Maral, Amamori(アマモリ), RFSharpe, Pigintub, ZN32K, Elwan, sumai, Hidetaka Nakazawa, Tolerance, toss-a-coint-to-the-doctor, Violet Evergarden, MRVodkaaa, Karolardo, Mike Von Wolkenstein, Baluvax, Army Veteran Gamer, ZER0, 4g0ny, Fart_Smucker, ClicknFight, Lunari Fenix, theshakiri, Jas, nasklaf, Jaime, xKahlfin, Isaak, imthetireguy, Driha / x00ey, greywheel, lim3, Nice Demon, Rvgged, Dramavian, Marditeo, davidrod, iAmDanny, BadJackDaniels, Daniel, scythe, dakkarino, Elichika, Cotorentin, Synnite, Luckytwice, OniZike, nuriksakura, Noice, Vinny376, Supemitas, Frypster, marakas, Satch, RuneK, T rrav, Dragola7, Eigard, YaBoiMonik, Horvath, y4m1n00m0 (Eustachy), Gorday, Smashjunge, xxKMKZxx, [r@ts]MeeB, Latezen, Vbbe, Chocodave, Hataksz, Ninja Sakura, MindCrasher11, Dooder, scottlandk, MaximusCheese, ulyss3s, ook, Juro, Uadi",
+  "dailyBonusTypeA": [1, 2, 8, 7, 3, 6, 5],
+  "dailyBonusTypeB": [1, 2, 9, 3, 4, 6, 5],
+  "streamDate": [2024, 8, 15],
+  "charityCodes": ["potatoZZZZZZZZZZZZZZZZZZZZ", "bananaZZZZZZZZZZZZZZZZZZZZ", "pumpkinZZZZZZZZZZZZZZZZZZZZ", "dragonfruitZZZZZZZZZZZZZZZZZZZZ"],
+  "riddle": [
+{ "id":20, "question": "If you have three, you have three. If you have two, you have two but if you have one, you have none. What am I?", "answer":"Choice"},
+{ "id":21, "question": "I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?", "answer":"echo"},
+{ "id":22, "question": "I always stay green no matter what. What am I?", "answer":"Fir"},
+{ "id":23, "question": "I belong to you, yet everyone else uses me. What am I?", "answer":"name"},
+{ "id":24, "question": "I have an eye but see nothing. What am I?", "answer":"Needle"},
+{ "id":25, "question": "What is always in front of you no matter where you go?", "answer":"Future"},
+{ "id":26, "question": "I have a head but no hair. What am I?", "answer":"Pin"},
+{ "id":27, "question": "I run, it runs, I stop, it runs What is it?", "answer":"Watch"},
+{ "id":28, "question": "In order to throw it you'll need a hand, it never goes far though it might not land. What is it?", "answer":"Punch"},
+{ "id":29, "question": "I go round and round but always stay in my place. What am I?", "answer":"Clock"},
+{ "id":30, "question": "Which word in the dictionary is always spelled incorrectly?", "answer":"incorrectly"},
+{ "id":31, "question": "The person who built it sold it. The person who bought it never used it. The person who used it never saw it. What am I?", "answer":"Coffin"},
+{ "id":32, "question": "What goes through a door but never goes in and never comes out?", "answer":"Keyhole"},
+{ "id":33, "question": "I am of most use when I'm broken. What am I?", "answer":"egg"},
+{ "id":34, "question": "I'm not a bird, though I am feathered and have a nest. I am quick in flight but need to rest often. What am I?", "answer":"Arrow"},
+{ "id":35, "question": "A blind girl lost her pencil, her ring, and her dog, what did she lose first?", "answer":"eyesight"},
+{ "id":36, "question": "What can fill an entire room but take no space?", "answer":"Light"},
+{ "id":37, "question": "How many letters are in 'alphabet'?", "answer":"8"},
+{ "id":38, "question": "Thirty white horses on a red hill, First they champ, Then they stamp, Then they stand still. What am I?", "answer":"Teeth"},
+{ "id":39, "question": "Voiceless it cries, Wingless flutters, Toothless bites, Mouthless mutters What am I?", "answer":"Wind"},
+{ "id":40, "question": "Clad in black, a master of disguise, with swift movements. I’m skilled in combat, stealthy as can be, A warrior of shadows. What am I?", "answer":"ninja"},
+{ "id":41, "question": "I cannot be seen, cannot be felt, cannot be heard, cannot be smelt. I lay in places least visited. What am I?", "answer":"Darkness"},
+{ "id":42, "question": "I devour all - birds, beasts, trees, flowers. I grind hard stones to meal, slay kings, ruin towns. What am I?", "answer":"Time"},
+{ "id":43, "question": "I lay in a box with no hinges, key, or a lid, yet golden treasure is hiddne inside me. What am I?", "answer":"egg"},
+{ "id":44, "question": "The all-knowing will never see me, yet to the fool I appear every week. What am I?", "answer":"Incorrect keep searching"},
+{ "id":45, "question": "I am always hungry and will die if not fed, but whatever I touch will soon turn red. What am I?", "answer":"fire"}
+]
+}
