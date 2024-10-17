@@ -14,73 +14,23 @@
     "dailyBonusTypeB": [1, 2, 9, 3, 4, 6, 5],
     "streamDate": [2024, 8, 27],
     "charityCodes": ["cashew", "almond", "pistachio", "peanut"],
-    "riddle": [{
-        "id": 45,
-        "question": "I am always hungry and will die if not fed, but whatever I touch will soon turn red. What am I?",
-        "answer": "fire"
-    }, {
-        "id": 46,
-        "question": "What building has the most stories in the world?",
-        "answer": "library"
-    }, {
-        "id": 47,
-        "question": "You cut me, slice me, dice me, and all the while, you cry. What am I?",
-        "answer": "onion"
-    }, {
-        "id": 48,
-        "question": "How many eggs would a rooster lay over three weeks, provided it is adequately fed and housed?",
-        "answer": "zero"
-    }, {
-        "id": 49,
-        "question": "I have legs but cannot walk. What am I?",
-        "answer": "chair"
-    }, {
-        "id": 50,
-        "question": "Tapping my Ninja.<br>Fighting all the Samurai.<br>Uniting the land.<br>What Am I?",
-        "answer": "haiku"
-    }, {
-        "id": 51,
-        "question": "If you speak my name, you break me. What am I?",
-        "answer": "silence"
-    }, {
-        "id": 52,
-        "question": "I am so simple that I can only point, yet I guide men all over the world. What am I?",
-        "answer": "compass"
-    }, {
-        "id": 53,
-        "question": "How many months have 28 days?",
-        "answer": "12"
-    }, {
-        "id": 54,
-        "question": "The more of me there is, the less you see. What am I?",
-        "answer": "darkness"
-    }, {
-        "id": 55,
-        "question": "I haves many keys but I can’t open a single lock. What am I?",
-        "answer": "piano"
-    }, {
-        "id": 56,
-        "question": "If you eat me, you will still be hungry. What am I?",
-        "answer": "nothing"
-    }, {
-        "id": 57,
-        "question": "You walk into a room that has a match, a kerosene lamp, a candle, and a fireplace. What would you light first? The match.",
-        "answer": "match"
-    }, {
-        "id": 58,
-        "question": "How much dirt is in a hole that’s two feet by three feet?",
-        "answer": "none"
-    }, {
-        "id": 59,
-        "question": "I get smaller every time I takes a bath?. What am I?",
-        "answer": "soap"
-    }, {
-        "id": 60,
-        "question": "I am easy to catch, but impossible to throw. What am I?",
-        "answer": "cold"
-    }, {
-        "id": 61,
-        "question": "What gets wetter and wetter the more it dries?",
-        "answer": "towel"
-    }]
+    "riddle": [
+{ "id":45, "question": "I am always hungry and will die if not fed, but whatever I touch will soon turn red. What am I?", "answer":"fire"},
+{ "id":46, "question": "What building has the most stories in the world?", "answer":"library"},
+{ "id":47, "question": "You cut me, slice me, dice me, and all the while, you cry. What am I?", "answer":"onion"},
+{ "id":48, "question": "How many eggs would a rooster lay over three weeks, provided it is adequately fed and housed?", "answer":"zero"},
+{ "id":49, "question": "Tapping my Ninja.<br>Fighting all the Samurai.<br>Uniting the land.<br>What Am I?", "answer":"haiku"},
+{ "id":50, "question": "I have legs but cannot walk. What am I?", "answer":"chair"},
+{ "id":51, "question": "If you speak my name, you break me. What am I?", "answer":"silence"},
+{ "id":52, "question": "I am so simple that I can only point, yet I guide men all over the world. What am I?", "answer":"compass"},
+{ "id":53, "question": "How many months have 28 days?", "answer":"12"},
+{ "id":54, "question": "The more of me there is, the less you see. What am I?", "answer":"darkness"},
+{ "id":55, "question": "I haves many keys but I can’t open a single lock. What am I?", "answer":"piano"},
+{ "id":56, "question": "If you eat me, you will still be hungry. What am I?", "answer":"nothing"},
+{ "id":57, "question": "You walk into a room that has a match, a kerosene lamp, a candle, and a fireplace. What would you light first? The match.", "answer":"match"},
+{ "id":58, "question": "How much dirt is in a hole that’s two feet by three feet?", "answer":"none"},
+{ "id":59, "question": "I get smaller every time I takes a bath?. What am I?", "answer":"soap"},
+{ "id":60, "question": "I am easy to catch, but impossible to throw. What am I?", "answer":"cold"},
+{ "id":61, "question": "What gets wetter and wetter the more it dries?", "answer":"towel"}
+]
 }
