@@ -27,7 +27,7 @@
 { "id":54, "question": "The more of me there is, the less you see. What am I?", "answer":"darkness"},
 { "id":55, "question": "I haves many keys but I can’t open a single lock. What am I?", "answer":"piano"},
 { "id":56, "question": "If you eat me, you will still be hungry. What am I?", "answer":"nothing"},
-{ "id":57, "question": "You walk into a room that has a match, a kerosene lamp, a candle, and a fireplace. What would you light first? The match.", "answer":"match"},
+{ "id":57, "question": "You walk into a room that has a match, a kerosene lamp, a candle, and a fireplace. What would you light first?", "answer":"match"},
 { "id":58, "question": "How much dirt is in a hole that’s two feet by three feet?", "answer":"none"},
 { "id":59, "question": "I get smaller every time I takes a bath?. What am I?", "answer":"soap"},
 { "id":60, "question": "I am easy to catch, but impossible to throw. What am I?", "answer":"cold"},
