@@ -29,7 +29,7 @@
 { "id":56, "question": "If you eat me, you will still be hungry. What am I?", "answer":"nothing"},
 { "id":57, "question": "You walk into a room that has a match, a kerosene lamp, a candle, and a fireplace. What would you light first?", "answer":"match"},
 { "id":58, "question": "How much dirt is in a hole that’s two feet by three feet?", "answer":"none"},
-{ "id":59, "question": "I get smaller every time I takes a bath?. What am I?", "answer":"soap"},
+{ "id":59, "question": "I get smaller every time I take a bath. What am I?", "answer":"soap"},
 { "id":60, "question": "I am easy to catch, but impossible to throw. What am I?", "answer":"cold"},
 { "id":61, "question": "What gets wetter and wetter the more it dries?", "answer":"towel"}
 ]
