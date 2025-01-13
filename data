@@ -31,6 +31,15 @@
 { "id":58, "question": "How much dirt is in a hole that’s two feet by three feet?", "answer":"none"},
 { "id":59, "question": "I get smaller every time I take a bath. What am I?", "answer":"soap"},
 { "id":60, "question": "I am easy to catch, but impossible to throw. What am I?", "answer":"cold"},
-{ "id":61, "question": "What gets wetter and wetter the more it dries?", "answer":"towel"}
+{ "id":61, "question": "What gets wetter and wetter the more it dries?", "answer":"towel"},
+{ "id":62, "question": "I am taken from a mine, and shut up in a wooden case, from which I am slowly released. What am I?", "answer":"pencil"},
+{ "id":63, "question": "The more you take, the more of me you leave behind. What am I?", "answer":"footstep"},
+{ "id":64, "question": "I can fly without wings, I can cry without eyes, whenever I go, darkness follows. What am I?", "answer":"cloud"},
+{ "id":65, "question": "I run all around the pasture but never move. What am I?", "answer":"fence"},
+{ "id":66, "question": "I am heavy forward, but backward I'm not. What am I?", "answer":"ton"},
+{ "id":67, "question": "I am full of holes yet I do not leak. What am I?", "answer":"sponge"},
+{ "id":68, "question": "I can wake you up without ever touching you. What am I?", "answer":"alarm"},
+{ "id":69, "question": "I have a neck but no head, I wear a cap but have no face. What am I?", "answer":"bottle"},
+{ "id":70, "question": "I am the beginning of the end, I am the end of time and space. I can be spotted everywhere. What am I?", "answer":"E"}
 ]
 }
