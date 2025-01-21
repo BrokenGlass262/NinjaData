@@ -40,6 +40,7 @@
 { "id":67, "question": "I am full of holes yet I do not leak. What am I?", "answer":"sponge"},
 { "id":68, "question": "I can wake you up without ever touching you. What am I?", "answer":"alarm"},
 { "id":69, "question": "I have a neck but no head, I wear a cap but have no face. What am I?", "answer":"bottle"},
-{ "id":70, "question": "I am the beginning of the end, I am the end of time and space. I can be spotted everywhere. What am I?", "answer":"E"}
+{ "id": 70, "question": "I am the beginning of the end, I am the end of time and space. I can be spotted everywhere. What am I?", "answer": "E"},
+{ "id": 71, "question": "I make the poor turn a blind eye, yet I'm unattainable by the wealthy. What am I?", "answer": "Time"}
 ]
 }
