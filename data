@@ -1,7 +1,7 @@
 {
-    "android": [6, 2, 2],
-    "steam": [6, 2, 2],
-    "ios": [6, 2, 2],
+    "android": [6, 2, 3],
+    "steam": [6, 2, 3],
+    "ios": [6, 2, 3],
     "dailyBonusBonus": [0, 7.5, 15, 5, 15, 10, 10, 15, 10, 10],
     "charityEvent": false,
     "charityStreamOnline": false,
@@ -41,6 +41,19 @@
 { "id":68, "question": "I can wake you up without ever touching you. What am I?", "answer":"alarm"},
 { "id":69, "question": "I have a neck but no head, I wear a cap but have no face. What am I?", "answer":"bottle"},
 { "id":70, "question": "I am the beginning of the end, I am the end of time and space. I can be spotted everywhere. What am I?", "answer": "E"},
-{ "id":71, "question": "I make the poor turn a blind eye, yet I'm unattainable by the wealthy. What am I?", "answer": "Time"}
+{ "id":71, "question": "I make the poor turn a blind eye, yet I'm unattainable by the wealthy. What am I?", "answer": "Time"},
+{ "id":72, "question": "I make two people out of one. What am I?", "answer":"mirror"},
+{ "id":73, "question": "I have no feet, no hands, no wings, but I climb to the sky. What am I?", "answer":"smoke"},
+{ "id":74, "question": "You can touch me, You can break me, You should win me if you want to be mine. What am I?", "answer":"heart"},
+{ "id":75, "question": "You answer me, although I never ask you questions. What am I?", "answer":"telephone"},
+{ "id":76, "question": "My life can be measured in hours, I serve by being devoured. Thin, I am quick. Fat, I am slow. Wind is my foe. What am I?", "answer":"candle"},
+{ "id":77, "question": "Until I am measured I am not known, Yet how you miss me when I have flown. What am I?", "answer":"time"},
+{ "id":78, "question": "I can be cracked, I can be made. I can be told, I can be played. What am I?", "answer":"joke"},
+{ "id":79, "question": "I am strong enough to smash ships, but I fear the Sun. What am I?", "answer":"ice"},
+{ "id":80, "question": "You can drop me from the tallest building and I will be well, but if u drop me in water I die. What am I?", "answer":"paper"},
+{ "id":81, "question": "The more there is the less you see. What is it?", "answer":"fog"},
+{ "id":82, "question": "First I am dried, then I am wet; The longer I swim, the more taste you get. What am I?", "answer":"tea"},
+{ "id":83, "question": "Four fingers and a thumb, Yet flesh and blood, I have none. What am I?", "answer":"glove"},
+{ "id":84, "question": "You will always find me in the past. I can be created in the present, But the future can never taint me. What am I?", "answer":"history"}
 ]
 }
