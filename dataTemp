@@ -183,6 +183,7 @@
         "bonusElixir": 3,
         "bonusCoinValue": 2,
         "bonusCoinMore": 1,
+        "moreFirefly": 2,
         "bonusBuildingPrice": 0.5,
         "bonusResearchPrice": 0.5,
         "bonusMedalMore": 2,
