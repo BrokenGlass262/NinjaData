@@ -177,8 +177,8 @@
     }],
     "seasonalEvent": [{
         "id": 1,
-        "startDate": "2025-06-01T00:00:00",
-        "endDate": "2025-06-30T23:59:59",
+        "startDate": [2025, 06, 01],
+        "endDate": [2025, 06, 30],
         "bonusGps": 2,
         "bonusElixir": 3,
         "bonusCoinValue": 2,
@@ -197,8 +197,8 @@
     },
 {
         "id": 2,
-        "startDate": "2025-07-01T00:00:00",
-        "endDate": "2025-07-30T23:59:59",
+        "startDate": [2025, 07, 01],
+        "endDate": [2025, 07, 30],
         "bonusGps": 2,
         "bonusElixir": 3,
         "bonusCoinValue": 2,
