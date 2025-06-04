@@ -176,7 +176,7 @@
         "answer": "history"
     }],
     "seasonalEvent": [{
-        "id": 0,
+        "id": 2,
         "startDate": [2025, 6, 1],
         "endDate": [2025, 6, 31],
         "bonusGps": 2,
