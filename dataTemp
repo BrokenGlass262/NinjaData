@@ -64,7 +64,8 @@
         "conquestConstrSpeed": 2,
         "conquestConstrPrice": 0.5,
         "conquestSchoolSpeed": 2,
-        "conquestSchoolPrice": 0.5
+        "conquestSchoolPrice": 0.5,
+        "conquestMaterialMore": 2
     },
 {
         "id": 2,
@@ -87,6 +88,7 @@
         "conquestConstrSpeed": 2,
         "conquestConstrPrice": 0.5,
         "conquestSchoolSpeed": 2,
-        "conquestSchoolPrice": 0.5
+        "conquestSchoolPrice": 0.5,
+        "conquestMaterialMore": 2
     }]
 }
