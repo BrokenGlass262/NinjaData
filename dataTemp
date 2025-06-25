@@ -48,7 +48,7 @@
         "startDate": [2025, 6, 1],
         "endDate": [2025, 6, 30],
         "taskId": [4, 9, 3],
-        "taskGoal": [10, 1e9, 12],
+        "taskGoal": [10, 10, 12],
 
         "bonusGps": 2,
         "bonusElixir": 3,
@@ -75,7 +75,7 @@
         "startDate": [2025, 7, 1],
         "endDate": [2025, 7, 30],
         "taskId": [4, 9, 3],
-        "taskGoal": [10, 1e9, 12],
+        "taskGoal": [10, 10, 12],
 
         "bonusGps": 2,
         "bonusElixir": 3,
