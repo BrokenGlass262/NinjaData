@@ -14,46 +14,69 @@
     "dailyBonusTypeB": [1, 2, 9, 3, 4, 6, 5],
     "streamDate": [2024, 8, 27],
     "charityCodes": ["cashewzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz"],
-    "riddle": [
-{ "id":45, "question": "I am always hungry and will die if not fed, but whatever I touch will soon turn red. What am I?", "answer":"fire"},
-{ "id":46, "question": "What building has the most stories in the world?", "answer":"library"},
-{ "id":47, "question": "You cut me, slice me, dice me, and all the while, you cry. What am I?", "answer":"onion"},
-{ "id":48, "question": "How many eggs would a rooster lay over three weeks, provided it is adequately fed and housed?", "answer":"zero"},
-{ "id":49, "question": "Tapping my Ninja.<br>Fighting all the Samurai.<br>Uniting the land.<br>What Am I?", "answer":"haiku"},
-{ "id":50, "question": "I have legs but cannot walk. What am I?", "answer":"chair"},
-{ "id":51, "question": "If you speak my name, you break me. What am I?", "answer":"silence"},
-{ "id":52, "question": "I am so simple that I can only point, yet I guide men all over the world. What am I?", "answer":"compass"},
-{ "id":53, "question": "How many months have 28 days?", "answer":"12"},
-{ "id":54, "question": "The more of me there is, the less you see. What am I?", "answer":"darkness"},
-{ "id":55, "question": "I haves many keys but I can’t open a single lock. What am I?", "answer":"piano"},
-{ "id":56, "question": "If you eat me, you will still be hungry. What am I?", "answer":"nothing"},
-{ "id":57, "question": "You walk into a room that has a match, a kerosene lamp, a candle, and a fireplace. What would you light first?", "answer":"match"},
-{ "id":58, "question": "How much dirt is in a hole that’s two feet by three feet?", "answer":"none"},
-{ "id":59, "question": "I get smaller every time I take a bath. What am I?", "answer":"soap"},
-{ "id":60, "question": "I am easy to catch, but impossible to throw. What am I?", "answer":"cold"},
-{ "id":61, "question": "What gets wetter and wetter the more it dries?", "answer":"towel"},
-{ "id":62, "question": "I am taken from a mine, and shut up in a wooden case, from which I am slowly released. What am I?", "answer":"pencil"},
-{ "id":63, "question": "The more you take, the more of me you leave behind. What am I?", "answer":"footstep"},
-{ "id":64, "question": "I can fly without wings, I can cry without eyes, whenever I go, darkness follows. What am I?", "answer":"cloud"},
-{ "id":65, "question": "I run all around the pasture but never move. What am I?", "answer":"fence"},
-{ "id":66, "question": "I am heavy forward, but backward I'm not. What am I?", "answer":"ton"},
-{ "id":67, "question": "I am full of holes yet I do not leak. What am I?", "answer":"sponge"},
-{ "id":68, "question": "I can wake you up without ever touching you. What am I?", "answer":"alarm"},
-{ "id":69, "question": "I have a neck but no head, I wear a cap but have no face. What am I?", "answer":"bottle"},
-{ "id":70, "question": "I am the beginning of the end, I am the end of time and space. I can be spotted everywhere. What am I?", "answer": "E"},
-{ "id":71, "question": "I make the poor turn a blind eye, yet I'm unattainable by the wealthy. What am I?", "answer": "Time"},
-{ "id":72, "question": "I make two people out of one. What am I?", "answer":"mirror"},
-{ "id":73, "question": "I have no feet, no hands, no wings, but I climb to the sky. What am I?", "answer":"smoke"},
-{ "id":74, "question": "You can touch me, You can break me, You should win me if you want to be mine. What am I?", "answer":"heart"},
-{ "id":75, "question": "You answer me, although I never ask you questions. What am I?", "answer":"telephone"},
-{ "id":76, "question": "My life can be measured in hours, I serve by being devoured. Thin, I am quick. Fat, I am slow. Wind is my foe. What am I?", "answer":"candle"},
-{ "id":77, "question": "Until I am measured I am not known, Yet how you miss me when I have flown. What am I?", "answer":"time"},
-{ "id":78, "question": "I can be cracked, I can be made. I can be told, I can be played. What am I?", "answer":"joke"},
-{ "id":79, "question": "I am strong enough to smash ships, but I fear the Sun. What am I?", "answer":"ice"},
-{ "id":80, "question": "You can drop me from the tallest building and I will be well, but if you drop me in water I die. What am I?", "answer":"paper"},
-{ "id":81, "question": "The more there is the less you see. What is it?", "answer":"fog"},
-{ "id":82, "question": "First I am dried, then I am wet; The longer I swim, the more taste you get. What am I?", "answer":"tea"},
-{ "id":83, "question": "Four fingers and a thumb, Yet flesh and blood, I have none. What am I?", "answer":"glove"},
-{ "id":84, "question": "You will always find me in the past. I can be created in the present, But the future can never taint me. What am I?", "answer":"history"}
-]
+    "riddle": [{
+        "id": 80,
+        "question": "You can drop me from the tallest building and I will be well, but if u drop me in water I die. What am I?",
+        "answer": "paper"
+    }, {
+        "id": 81,
+        "question": "The more there is the less you see. What is it?",
+        "answer": "fog"
+    }, {
+        "id": 82,
+        "question": "First I am dried, then I am wet; The longer I swim, the more taste you get. What am I?",
+        "answer": "tea"
+    }, {
+        "id": 83,
+        "question": "Four fingers and a thumb, Yet flesh and blood, I have none. What am I?",
+        "answer": "glove"
+    }, {
+        "id": 84,
+        "question": "You will always find me in the past. I can be created in the present, But the future can never taint me. What am I?",
+        "answer": "history"
+    }, {
+        "id": 85,
+        "question": "You can break me without touching me. What am I?",
+        "answer": "promise"
+    }, {
+        "id": 86,
+        "question": "I begin with E and end with E, yet I have only one letter. What am I?",
+        "answer": "envelope"
+    }, {
+        "id": 87,
+        "question": "I get bigger the more you take away. What am I?",
+        "answer": "hole"
+    }, {
+        "id": 88,
+        "question": "I am easier to het into than out. What am I?",
+        "answer": "trouble"
+    }, {
+        "id": 89,
+        "question": "I can go up a chimney down, but I can not go down a chimney up. What am I?",
+        "answer": "umbrella"
+    }, {
+        "id": 90,
+        "question": "I go up and down, but I never move. What am I?",
+        "answer": "stairs"
+    }, {
+        "id": 91,
+        "question": "I have many teeth, but I can't bite. What am I?",
+        "answer": "comb"
+    }, {
+        "id": 92,
+        "question": "I am celebrating the 4 year anniversary this week. What am I?",
+        "answer": "tap ninja"
+    }, {
+        "id": 93,
+        "question": "I can only go down and never up. What am I?",
+        "answer": "rain"
+    }, {
+        "id": 94,
+        "question": "In one of my many forms I contain 26 letters but only have three syllables. What am I?",
+        "answer": "alphabet"
+    }, {
+        "id": 95,
+        "question": "Cowardly colored, solid material. The common body of people in the land of recreation. What Am I?",
+        "answer": "Yellowstone National Park"
+    }]
 }
