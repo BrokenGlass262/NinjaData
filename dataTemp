@@ -13,7 +13,7 @@
     "dailyBonusTypeA": [1, 2, 8, 7, 3, 6, 5],
     "dailyBonusTypeB": [1, 2, 9, 3, 4, 6, 5],
     "streamDate": [2025, 8, 29],
-    "charityCodes": ["z", "z", "z"],
+    "charityCodes": ["z", "z", "z", "z", "z", "z", "z"],
     "riddle": [
 { "id":80, "question": "You can drop me from the tallest building and I will be well, but if u drop me in water I die. What am I?", "answer":"paper"},
 { "id":81, "question": "The more there is the less you see. What is it?", "answer":"fog"},
