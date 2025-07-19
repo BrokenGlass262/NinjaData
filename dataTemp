@@ -36,8 +36,8 @@
         "id": 1,
         "startDate": [2025, 7, 1],
         "endDate": [2025, 7, 31],
-        "taskId": [4, 9, 3],
-        "taskGoal": [10, 10, 12],
+        "taskId": [2, 4, 9],
+        "taskGoal": [100, 12, 10],
         "rewardAmber": [500, 1000],
 
         "bonusGps": 1,
