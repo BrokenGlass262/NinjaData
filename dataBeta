@@ -35,7 +35,7 @@
     "seasonalEvent": [{
         "id": 1,
         "startDate": [2025, 7, 21],
-        "endDate": [2025, 7, 31],
+        "endDate": [2025, 8, 31],
         "taskId": [2, 4, 9],
         "taskGoal": [100, 12, 10],
         "rewardAmber": [500, 1000],
@@ -62,8 +62,8 @@
     },
 {
         "id": 2,
-        "startDate": [2025, 8, 1],
-        "endDate": [2025, 8, 31],
+        "startDate": [2025, 9, 1],
+        "endDate": [2025, 9, 30],
         "taskId": [4, 9, 3],
         "taskGoal": [10, 10, 12],
         "rewardAmber": [500, 1000],
