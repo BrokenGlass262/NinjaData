@@ -54,7 +54,7 @@
 
         "bonusPetPassive": 1,
         "bonusHeroPower": 1,
-        "conquestConstrSpeed": 1,
+        "conquestConstrSpeed": 1.5,
         "conquestConstrPrice": 1,
         "conquestSchoolSpeed": 1,
         "conquestSchoolPrice": 1,
