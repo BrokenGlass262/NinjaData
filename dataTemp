@@ -34,7 +34,7 @@
 ],
     "seasonalEvent": [{
         "id": 1,
-        "startDate": [2025, 8, 18],
+        "startDate": [2025, 8, 28],
         "endDate": [2025, 9, 25],
         "taskId": [2, 4, 9],
         "taskGoal": [140, 52, 11],
