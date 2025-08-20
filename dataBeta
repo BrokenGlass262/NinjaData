@@ -23,7 +23,7 @@
 { "id":85, "question": "You can break me without touching me. What am I?", "answer":"promise"},
 { "id":86, "question": "I begin with E and end with E, yet I have only one letter. What am I?", "answer":"envelope"},
 { "id":87, "question": "I get bigger the more you take away. What am I?", "answer":"hole"},
-{ "id":88, "question": "I am easier to het into than out. What am I?", "answer":"trouble"},
+{ "id":88, "question": "I am easier to get into than out. What am I?", "answer":"trouble"},
 { "id":89, "question": "I can go up a chimney down, but I can not go down a chimney up. What am I?", "answer":"umbrella"},
 { "id":90, "question": "I go up and down, but I never move. What am I?", "answer":"stairs"},
 { "id":91, "question": "I have many teeth, but I can't bite. What am I?", "answer":"comb"},
@@ -34,11 +34,12 @@
 ],
     "seasonalEvent": [{
         "id": 1,
-        "startDate": [2025, 7, 31],
-        "endDate": [2025, 8, 31],
+        "startDate": [2025, 8, 18],
+        "endDate": [2025, 9, 25],
         "taskId": [2, 4, 9],
-        "taskGoal": [125, 10, 11],
-        "rewardAmber": [1500, 1000],
+        "taskGoalA": [80, 100, 140],
+        "taskGoalB": [36, 44, 52],
+        "taskGoalC": [9, 10, 11],
 
         "bonusGps": 1,
         "bonusElixir": 2,
@@ -54,7 +55,7 @@
 
         "bonusPetPassive": 1,
         "bonusHeroPower": 1,
-        "conquestConstrSpeed": 1,
+        "conquestConstrSpeed": 1.5,
         "conquestConstrPrice": 1,
         "conquestSchoolSpeed": 1,
         "conquestSchoolPrice": 1,
@@ -66,7 +67,7 @@
         "endDate": [2025, 9, 30],
         "taskId": [4, 9, 3],
         "taskGoal": [10, 10, 12],
-        "rewardAmber": [500, 1000],
+        "rewardAmber": 1500,
 
         "bonusGps": 2,
         "bonusElixir": 3,
