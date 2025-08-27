@@ -63,8 +63,8 @@
     },
 {
         "id": 2,
-        "startDate": [2025, 9, 1],
-        "endDate": [2025, 9, 30],
+        "startDate": [2025, 10, 1],
+        "endDate": [2025, 10, 30],
         "taskId": [4, 9, 3],
         "taskGoal": [10, 10, 12],
         "rewardAmber": 1500,
