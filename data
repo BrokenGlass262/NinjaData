@@ -1,10 +1,10 @@
 {
     "android": [7, 0, 4],
     "steam": [7, 0, 4],
-    "ios": [7, 0, 3],
+    "ios": [7, 0, 4],
     "dailyBonusBonus": [0, 7.5, 15, 5, 15, 10, 10, 15, 10, 10],
-    "charityEvent": false,
-    "charityStreamOnline": false,
+    "charityEvent": true,
+    "charityStreamOnline": true,
     "streamLink": "https://www.twitch.tv/shamahan",
     "streamTimeUtc": 16,
     "bannerMinCost": "$25",
