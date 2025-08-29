@@ -8,30 +8,77 @@
     "streamLink": "https://www.twitch.tv/shamahan",
     "streamTimeUtc": 16,
     "bannerMinCost": "$25",
-    "topDonors": "Be the top Donator!",
-    "allDonors": "Be the first Donator!",
+    "topDonors": "1: Kahlfin<br>2: cotorentin<br>3: noddler<br>4: Nice Amaya<br>5: DavidRod8<br>DeHuff / SirBuzzKill, Djut, KaoruDark, i eat children",
+    "allDonors": "Hordu_, diceydia, maral, very_very_cool_person, Acadian, kompakd, zxpt, N32K, ShepherdDog265, ElwanDH, blagho, ForgottenUnicorn, Hidetaka Nakazawa, Snix, SMthegamer, MRVodkaaa, runupcrust, riprekt, sillyjones, peter33, WhackyDeli, MP412, Damon182004, Fart_Smucker, Mads, bloated_chocolatebar, Rie, Ceadeus, Josegarces, Jonflom, Janson_89, francus, Kravew, Flotal1ty, Favve, 3zic, Marditeo, Fauen, dakkarino, Ninja Sakura, Adam Z., Prof.Carvalho",
     "dailyBonusTypeA": [1, 2, 8, 7, 3, 6, 5],
     "dailyBonusTypeB": [1, 2, 9, 3, 4, 6, 5],
     "streamDate": [2025, 8, 29],
     "charityCodes": ["cucumber", "tomato", "paprika"],
-    "riddle": [
-{ "id":80, "question": "You can drop me from the tallest building and I will be well, but if u drop me in water I die. What am I?", "answer":"paper"},
-{ "id":81, "question": "The more there is the less you see. What is it?", "answer":"fog"},
-{ "id":82, "question": "First I am dried, then I am wet; The longer I swim, the more taste you get. What am I?", "answer":"tea"},
-{ "id":83, "question": "Four fingers and a thumb, Yet flesh and blood, I have none. What am I?", "answer":"glove"},
-{ "id":84, "question": "You will always find me in the past. I can be created in the present, But the future can never taint me. What am I?", "answer":"history"},
-{ "id":85, "question": "You can break me without touching me. What am I?", "answer":"promise"},
-{ "id":86, "question": "I begin with E and end with E, yet I have only one letter. What am I?", "answer":"envelope"},
-{ "id":87, "question": "I get bigger the more you take away. What am I?", "answer":"hole"},
-{ "id":88, "question": "I am easier to get into than out. What am I?", "answer":"trouble"},
-{ "id":89, "question": "I can go up a chimney down, but I can not go down a chimney up. What am I?", "answer":"umbrella"},
-{ "id":90, "question": "I go up and down, but I never move. What am I?", "answer":"stairs"},
-{ "id":91, "question": "I have many teeth, but I can't bite. What am I?", "answer":"comb"},
-{ "id":92, "question": "I am celebrating the 4 year anniversary this week. What am I?", "answer":"tap ninja"},
-{ "id":93, "question": "I can only go down and never up. What am I?", "answer":"rain"},
-{ "id":94, "question": "In one of my many forms I contain 26 letters but only have three syllables. What am I?", "answer":"alphabet"},
-{ "id":95, "question": "Cowardly colored, solid material. The common body of people in the land of recreation. What Am I?", "answer":"Yellowstone National Park"}
-],
+    "riddle": [{
+        "id": 80,
+        "question": "You can drop me from the tallest building and I will be well, but if u drop me in water I die. What am I?",
+        "answer": "paper"
+    }, {
+        "id": 81,
+        "question": "The more there is the less you see. What is it?",
+        "answer": "fog"
+    }, {
+        "id": 82,
+        "question": "First I am dried, then I am wet; The longer I swim, the more taste you get. What am I?",
+        "answer": "tea"
+    }, {
+        "id": 83,
+        "question": "Four fingers and a thumb, Yet flesh and blood, I have none. What am I?",
+        "answer": "glove"
+    }, {
+        "id": 84,
+        "question": "You will always find me in the past. I can be created in the present, But the future can never taint me. What am I?",
+        "answer": "history"
+    }, {
+        "id": 85,
+        "question": "You can break me without touching me. What am I?",
+        "answer": "promise"
+    }, {
+        "id": 86,
+        "question": "I begin with E and end with E, yet I have only one letter. What am I?",
+        "answer": "envelope"
+    }, {
+        "id": 87,
+        "question": "I get bigger the more you take away. What am I?",
+        "answer": "hole"
+    }, {
+        "id": 88,
+        "question": "I am easier to get into than out. What am I?",
+        "answer": "trouble"
+    }, {
+        "id": 89,
+        "question": "I can go up a chimney down, but I can not go down a chimney up. What am I?",
+        "answer": "umbrella"
+    }, {
+        "id": 90,
+        "question": "I go up and down, but I never move. What am I?",
+        "answer": "stairs"
+    }, {
+        "id": 91,
+        "question": "I have many teeth, but I can't bite. What am I?",
+        "answer": "comb"
+    }, {
+        "id": 92,
+        "question": "I am celebrating the 4 year anniversary this week. What am I?",
+        "answer": "tap ninja"
+    }, {
+        "id": 93,
+        "question": "I can only go down and never up. What am I?",
+        "answer": "rain"
+    }, {
+        "id": 94,
+        "question": "In one of my many forms I contain 26 letters but only have three syllables. What am I?",
+        "answer": "alphabet"
+    }, {
+        "id": 95,
+        "question": "Cowardly colored, solid material. The common body of people in the land of recreation. What Am I?",
+        "answer": "Yellowstone National Park"
+    }],
     "seasonalEvent": [{
         "id": 1,
         "startDate": [2025, 8, 24],
@@ -40,7 +87,6 @@
         "taskGoalA": [50, 100, 140],
         "taskGoalB": [32, 44, 52],
         "taskGoalC": [7, 10, 11],
-
         "bonusGps": 1,
         "bonusElixir": 2,
         "coinValue": 1,
@@ -52,7 +98,6 @@
         "keyMore": 1,
         "eggMore": 1,
         "scrollMore": 1,
-
         "bonusPetPassive": 1,
         "bonusHeroPower": 1,
         "conquestConstrSpeed": 1.5,
@@ -60,8 +105,7 @@
         "conquestSchoolSpeed": 1,
         "conquestSchoolPrice": 1,
         "conquestMaterialMore": 1
-    },
-{
+    }, {
         "id": 2,
         "startDate": [2025, 10, 1],
         "endDate": [2025, 10, 30],
@@ -69,7 +113,6 @@
         "taskGoalA": [50, 100, 140],
         "taskGoalB": [32, 44, 52],
         "taskGoalC": [7, 10, 11],
-
         "bonusGps": 2,
         "bonusElixir": 3,
         "coinValue": 2,
@@ -81,7 +124,6 @@
         "keyMore": 2,
         "eggMore": 2,
         "scrollMore": 2,
-
         "bonusPetPassive": 1,
         "bonusHeroPower": 1,
         "conquestConstrSpeed": 2,
