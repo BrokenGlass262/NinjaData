@@ -1,5 +1,5 @@
 {
-    "android": [7, 0, 4],
+    "android": [7, 0, 5],
     "steam": [7, 0, 5],
     "ios": [7, 0, 4],
     "dailyBonusBonus": [0, 7.5, 15, 5, 15, 10, 10, 15, 10, 10],
@@ -8,8 +8,8 @@
     "streamLink": "https://www.twitch.tv/shamahan",
     "streamTimeUtc": 16,
     "bannerMinCost": "$25",
-    "topDonors": "1: Kahlfin<br>2: cotorentin<br>3: noddler<br>4: Nice Amaya<br>5: DavidRod8<br>DeHuff / SirBuzzKill, Djut, KaoruDark, i eat children",
-    "allDonors": "Hordu_, diceydia, maral, very_very_cool_person, Acadian, kompakd, zxpt, N32K, ShepherdDog265, ElwanDH, blagho, ForgottenUnicorn, Hidetaka Nakazawa, Snix, SMthegamer, MRVodkaaa, runupcrust, riprekt, sillyjones, peter33, WhackyDeli, MP412, Damon182004, Fart_Smucker, Mads, bloated_chocolatebar, Rie, Ceadeus, Josegarces, Jonflom, Janson_89, francus, Kravew, Flotal1ty, Favve, 3zic, Marditeo, Fauen, dakkarino, Ninja Sakura, Adam Z., Prof.Carvalho",
+    "topDonors": "1: Kahlfin<br>2: cotorentin<br>3: Nice Amaya<br>4: noddler<br>5: DeHuff / SirBuzzKill<br>DavidRod8, i eat children, Djut, KaoruDark, Hordu",
+    "allDonors": "deanQDJ, jjjorsmith, Norseman-IL, diceydia, Acadian, very_very_cool_person, maral, Prof. Carvalho, Adil dominiert Peet, adrian.m291200, Supemitas, Adam Z., Ninja Sakura, dakkarino, Fauen, Ealenthis, Marditeo, dylancolo188, YaBoiMonik, ewen1904, 3zic, Favve, Flotal1ty, Kravew, Hyrulegreen, kingarthur7777777, francus, ssomethingss, Opera Revelation, Janson_89, jonflom, josegarces3799, jozef.rusin, Ceadeus, Rie, bloated_chocolatebar, lunar.fenix, Mads, Fart_Smucker, Damon182004, MP412, WhackyDeli, peter33, sillyjones, riprekt, Mike Wolkenstein, runupcrust, MRVodkaaa, scottlandk, Violet Evergarden, SMthegamer, Snix, Hidetaka Nakazawa, ForgottenUnicorn, blagho, Vinny376, ElwanDH, ShepherdDog265, N32K, cool-sun-272, zxpt, sn0zz, kompakd, MaximusCheese",
     "dailyBonusTypeA": [1, 2, 8, 7, 3, 6, 5],
     "dailyBonusTypeB": [1, 2, 9, 3, 4, 6, 5],
     "streamDate": [2025, 8, 29],
