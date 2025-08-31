@@ -4,7 +4,7 @@
     "ios": [7, 0, 4],
     "dailyBonusBonus": [0, 7.5, 15, 5, 15, 10, 10, 15, 10, 10],
     "charityEvent": true,
-    "charityStreamOnline": false,
+    "charityStreamOnline": true,
     "streamLink": "https://www.twitch.tv/shamahan",
     "streamTimeUtc": 16,
     "bannerMinCost": "$25",
