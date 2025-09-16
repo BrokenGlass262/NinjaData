@@ -14,71 +14,14 @@
     "dailyBonusTypeB": [1, 2, 9, 3, 4, 6, 5],
     "streamDate": [2025, 8, 29],
     "charityCodes": ["cucumber", "tomato", "paprika"],
-    "riddle": [{
-        "id": 80,
-        "question": "You can drop me from the tallest building and I will be well, but if u drop me in water I die. What am I?",
-        "answer": "paper"
-    }, {
-        "id": 81,
-        "question": "The more there is the less you see. What is it?",
-        "answer": "fog"
-    }, {
-        "id": 82,
-        "question": "First I am dried, then I am wet; The longer I swim, the more taste you get. What am I?",
-        "answer": "tea"
-    }, {
-        "id": 83,
-        "question": "Four fingers and a thumb, Yet flesh and blood, I have none. What am I?",
-        "answer": "glove"
-    }, {
-        "id": 84,
-        "question": "You will always find me in the past. I can be created in the present, But the future can never taint me. What am I?",
-        "answer": "history"
-    }, {
-        "id": 85,
-        "question": "You can break me without touching me. What am I?",
-        "answer": "promise"
-    }, {
-        "id": 86,
-        "question": "I begin with E and end with E, yet I have only one letter. What am I?",
-        "answer": "envelope"
-    }, {
-        "id": 87,
-        "question": "I get bigger the more you take away. What am I?",
-        "answer": "hole"
-    }, {
-        "id": 88,
-        "question": "I am easier to get into than out. What am I?",
-        "answer": "trouble"
-    }, {
-        "id": 89,
-        "question": "I can go up a chimney down, but I can not go down a chimney up. What am I?",
-        "answer": "umbrella"
-    }, {
-        "id": 90,
-        "question": "I go up and down, but I never move. What am I?",
-        "answer": "stairs"
-    }, {
-        "id": 91,
-        "question": "I have many teeth, but I can't bite. What am I?",
-        "answer": "comb"
-    }, {
-        "id": 92,
-        "question": "I am celebrating the 4 year anniversary this week. What am I?",
-        "answer": "tap ninja"
-    }, {
-        "id": 93,
-        "question": "I can only go down and never up. What am I?",
-        "answer": "rain"
-    }, {
-        "id": 94,
-        "question": "In one of my many forms I contain 26 letters but only have three syllables. What am I?",
-        "answer": "alphabet"
-    }, {
-        "id": 95,
-        "question": "Cowardly colored, solid material. The common body of people in the land of recreation. What Am I?",
-        "answer": "Yellowstone National Park"
-    }],
+        "riddle": [
+{ "id":93, "question": "I can only go down and never up. What am I?", "answer":"rain"},
+{ "id":94, "question": "In one of my many forms I contain 26 letters but only have three syllables. What am I?", "answer":"alphabet"},
+{ "id":95, "question": "I have hands that always move, but I can not clap. What am I?", "answer":"clock"},
+{ "id":96, "question": "Cowardly colored, solid material. The common body of people in the land of recreation. What Am I?", "answer":"Yellowstone National Park"},
+{ "id":97, "question": "I have no legs and I can not walk, yet I can not stop running. What am I?", "answer":"river"},
+{ "id":98, "question": "When things go wrong, you can always count on me. What am I?", "answer":"fingers"}
+],
     "seasonalEvent": [{
         "id": 1,
         "startDate": [2025, 8, 24],
