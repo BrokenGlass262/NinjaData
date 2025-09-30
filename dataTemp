@@ -1,20 +1,20 @@
 {
-    "android": [7, 0, 0],
-    "steam": [7, 0, 0],
-    "ios": [7, 0, 0],
+    "android": [7, 0, 11],
+    "steam": [7, 0, 11],
+    "ios": [7, 0, 11],
     "dailyBonusBonus": [0, 7.5, 15, 5, 15, 10, 10, 15, 10, 10],
     "charityEvent": false,
     "charityStreamOnline": false,
     "streamLink": "https://www.twitch.tv/shamahan",
     "streamTimeUtc": 16,
     "bannerMinCost": "$25",
-    "topDonors": "Be the top Donator!",
-    "allDonors": "Be the first Donator!",
+    "topDonors": "Be the first at the top!",
+    "allDonors": "Be the first to donate!",
     "dailyBonusTypeA": [1, 2, 8, 7, 3, 6, 5],
     "dailyBonusTypeB": [1, 2, 9, 3, 4, 6, 5],
     "streamDate": [2025, 8, 29],
     "charityCodes": ["cucumber", "tomato", "paprika"],
-    "riddle": [
+        "riddle": [
 { "id":93, "question": "I can only go down and never up. What am I?", "answer":"rain"},
 { "id":94, "question": "In one of my many forms I contain 26 letters but only have three syllables. What am I?", "answer":"alphabet"},
 { "id":95, "question": "I have hands that always move, but I can not clap. What am I?", "answer":"clock"},
@@ -30,7 +30,6 @@
         "taskGoalA": [50, 100, 140],
         "taskGoalB": [32, 44, 52],
         "taskGoalC": [7, 10, 11],
-
         "bonusGps": 1,
         "bonusElixir": 2,
         "coinValue": 1,
@@ -42,7 +41,6 @@
         "keyMore": 1,
         "eggMore": 1,
         "scrollMore": 1,
-
         "bonusPetPassive": 1,
         "bonusHeroPower": 1,
         "conquestConstrSpeed": 1.5,
@@ -50,16 +48,14 @@
         "conquestSchoolSpeed": 1,
         "conquestSchoolPrice": 1,
         "conquestMaterialMore": 1
-    },
-{
+    }, {
         "id": 2,
-        "startDate": [2025, 10, 1],
-        "endDate": [2025, 10, 30],
-        "taskId": [4, 9, 3],
-        "taskGoalA": [50, 100, 140],
-        "taskGoalB": [32, 44, 52],
-        "taskGoalC": [7, 10, 11],
-
+        "startDate": [2025, 10, 31],
+        "endDate": [2025, 11, 30],
+        "taskId": [0, 0, 0],
+        "taskGoalA": [0, 0, 0],
+        "taskGoalB": [0, 0, 0],
+        "taskGoalC": [0, 0, 0],
         "bonusGps": 2,
         "bonusElixir": 3,
         "coinValue": 2,
@@ -71,7 +67,6 @@
         "keyMore": 2,
         "eggMore": 2,
         "scrollMore": 2,
-
         "bonusPetPassive": 1,
         "bonusHeroPower": 1,
         "conquestConstrSpeed": 2,
