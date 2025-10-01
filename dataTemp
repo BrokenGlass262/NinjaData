@@ -20,7 +20,10 @@
 { "id":95, "question": "I have hands that always move, but I can not clap. What am I?", "answer":"clock"},
 { "id":96, "question": "Cowardly colored, solid material. The common body of people in the land of recreation. What Am I?", "answer":"Yellowstone National Park"},
 { "id":97, "question": "I have no legs and I can not walk, yet I can not stop running. What am I?", "answer":"river"},
-{ "id":98, "question": "When things go wrong, you can always count on me. What am I?", "answer":"fingers"}
+{ "id":98, "question": "I'm a land that's vast and wide, with forests deep and beached by my side. Famous for samba and football skill. What am I?", "answer":"brazil"},
+{ "id":98, "question": "When things go wrong, you can always count on me. What am I?", "answer":"fingers"},
+{ "id":100, "question": "I have cities, but no houses. I have mountains, but no trees. I have rivers, but no fish. What am I?", "answer":"map"}
+
 ],
     "seasonalEvent": [{
         "id": 1,
