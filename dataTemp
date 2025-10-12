@@ -77,5 +77,31 @@
         "conquestSchoolSpeed": 2,
         "conquestSchoolPrice": 0.5,
         "conquestMaterialMore": 2
+    }, {
+        "id": 3,
+        "startDate": [2025, 12, 1],
+        "endDate": [2025, 12, 31],
+        "taskId": [0, 0, 0],
+        "taskGoalA": [0, 0, 0],
+        "taskGoalB": [0, 0, 0],
+        "taskGoalC": [0, 0, 0],
+        "bonusGps": 2,
+        "bonusElixir": 3,
+        "coinValue": 2,
+        "coinMore": 1,
+        "moreFirefly": 2,
+        "buildingPrice": 0.5,
+        "researchPrice": 0.5,
+        "medalMore": 2,
+        "keyMore": 2,
+        "eggMore": 2,
+        "scrollMore": 2,
+        "bonusPetPassive": 1,
+        "bonusHeroPower": 1,
+        "conquestConstrSpeed": 2,
+        "conquestConstrPrice": 0.5,
+        "conquestSchoolSpeed": 2,
+        "conquestSchoolPrice": 0.5,
+        "conquestMaterialMore": 2
     }]
 }
