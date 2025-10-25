@@ -15,15 +15,10 @@
     "streamDate": [2025, 8, 29],
     "charityCodes": ["cucumber", "tomato", "paprika"],
         "riddle": [
-{ "id":93, "question": "I can only go down and never up. What am I?", "answer":"rain"},
-{ "id":94, "question": "In one of my many forms I contain 26 letters but only have three syllables. What am I?", "answer":"alphabet"},
-{ "id":95, "question": "I have hands that always move, but I can not clap. What am I?", "answer":"clock"},
-{ "id":96, "question": "Cowardly colored, solid material. The common body of people in the land of recreation. What Am I?", "answer":"Yellowstone National Park"},
-{ "id":97, "question": "I have no legs and I can not walk, yet I can not stop running. What am I?", "answer":"river"},
-{ "id":98, "question": "I'm a land that's vast and wide, with forests deep and beached by my side. Famous for samba and football skill. What am I?", "answer":"brazil"},
-{ "id":99, "question": "When things go wrong, you can always count on me. What am I?", "answer":"fingers"},
-{ "id":100, "question": "I have cities, but no houses. I have mountains, but no trees. I have rivers, but no fish. What am I?", "answer":"map"}
-
+{ "id":99, "question": "When things go wrong, you can always count on me. What am I?", "answer":"fingers", "author":""},
+{ "id":100, "question": "I have cities, but no houses. I have mountains, but no trees. I have rivers, but no fish. What am I?", "answer":"map", "author":""},
+{ "id":101, "question": "Everyone knows what I look like but no one has ever really seen me. What am I?", "answer":"unicorn", "author":"Nice Amaya"},
+{ "id":102, "question": "I give tons of rewards, playing me is a must, if you have more stars, i'll give you more dust. What am I?", "answer":"dungeon", "author":"MP"}
 ],
     "seasonalEvent": [{
         "id": 1,
@@ -59,23 +54,23 @@
         "taskGoalA": [0, 0, 0],
         "taskGoalB": [0, 0, 0],
         "taskGoalC": [0, 0, 0],
-        "bonusGps": 2,
-        "bonusElixir": 3,
-        "coinValue": 2,
+        "bonusGps": 1,
+        "bonusElixir": 1,
+        "coinValue": 1,
         "coinMore": 1,
-        "moreFirefly": 2,
-        "buildingPrice": 0.5,
-        "researchPrice": 0.5,
-        "medalMore": 2,
-        "keyMore": 2,
-        "eggMore": 2,
-        "scrollMore": 2,
+        "moreFirefly": 1,
+        "buildingPrice": 1,
+        "researchPrice": 1,
+        "medalMore": 1,
+        "keyMore": 1,
+        "eggMore": 1,
+        "scrollMore": 1,
         "bonusPetPassive": 1,
         "bonusHeroPower": 1,
-        "conquestConstrSpeed": 2,
-        "conquestConstrPrice": 0.5,
-        "conquestSchoolSpeed": 2,
-        "conquestSchoolPrice": 0.5,
-        "conquestMaterialMore": 2
+        "conquestConstrSpeed": 1,
+        "conquestConstrPrice": 1,
+        "conquestSchoolSpeed": 1,
+        "conquestSchoolPrice": 1,
+        "conquestMaterialMore": 1
     }]
 }
