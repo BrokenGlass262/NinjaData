@@ -20,7 +20,8 @@
 { "id":101, "question": "Everyone knows what I look like but no one has ever really seen me. What am I?", "answer":"unicorn", "author":"Nice Amaya"},
 { "id":102, "question": "I give tons of rewards, playing me is a must, if you have more stars, i'll give you more dust. What am I?", "answer":"dungeon", "author":"MP"},
 { "id":103, "question":  "Clear and salty, i can fit in an eye, yet weigh a ton. What am I?", "answer":"tear", "author":"Dale Vandermeer"},
-{ "id":104, "question": "What loses its head in the morning but gets it back at night?", "answer":"pillow", "author":"Cactus.Shnz"}
+{ "id":104, "question": "What loses its head in the morning but gets it back at night?", "answer":"pillow", "author":"Cactus.Shnz"},
+{ "id":105, "question": "I get stronger, every time someone dies. If I get killed, I take them with me. My biggest fear is fire. What am I?", "answer":"scythe", "author":"Dark_Gen"}
 ],
     "seasonalEvent": [{
         "id": 1,
@@ -75,5 +76,5 @@
         "conquestSchoolPrice": 1,
         "conquestMaterialMore": 1
     }],
-    "blacklistedVersion": [[7, 1, 0], [7, 1, 2]]
+    "blacklistedVersion": [[7, 1, 0], [7, 1, 4]]
 }
