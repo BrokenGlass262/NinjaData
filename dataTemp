@@ -76,5 +76,5 @@
         "conquestSchoolPrice": 1,
         "conquestMaterialMore": 1
     }],
-    "blacklistedVersion": [[7, 1, 0], [7, 1, 4]]
+    "blacklistedVersion": [7, 1, 0, 7, 1, 4]
 }
