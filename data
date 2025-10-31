@@ -17,10 +17,9 @@
         "riddle": [
 { "id":99, "question": "When things go wrong, you can always count on me. What am I?", "answer":"fingers", "author":""},
 { "id":100, "question": "I have cities, but no houses. I have mountains, but no trees. I have rivers, but no fish. What am I?", "answer":"map", "author":""},
-{ "id":101, "question": "Everyone knows what I look like but no one has ever really seen me. What am I?", "answer":"unicorn", "author":"Nice Amaya"},
-{ "id":102, "question": "I give tons of rewards, playing me is a must, if you have more stars, i'll give you more dust. What am I?", "answer":"dungeon", "author":"MP"},
-{ "id":103, "question":  "Clear and salty, i can fit in an eye, yet weigh a ton. What am I?", "answer":"tear", "author":"Dale Vandermeer"},
-{ "id":104, "question": "What loses its head in the morning but gets it back at night?", "answer":"pillow", "author":"Cactus.Shnz"}
+{ "id":101, "question": "I give tons of rewards, playing me is a must, if you have more stars, i'll give you more dust. What am I?", "answer":"dungeon", "author":"MP"},
+{ "id":102, "question":  "Clear and salty, i can fit in an eye, yet weigh a ton. What am I?", "answer":"tear", "author":"Dale Vandermeer"},
+{ "id":103, "question": "What loses its head in the morning but gets it back at night?", "answer":"pillow", "author":"Cactus.Shnz"}
 ],
     "seasonalEvent": [{
         "id": 1,
