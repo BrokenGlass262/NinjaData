@@ -83,7 +83,7 @@
     }, {
         "id": 3,
         "startDate": [2026, 1, 2],
-        "endDate": [2026, 1, 3],
+        "endDate": [2026, 2, 3],
         "taskId": [0, 0, 0],
         "taskGoalA": [0, 0, 0],
         "taskGoalB": [0, 0, 0],
