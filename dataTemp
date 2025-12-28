@@ -1,7 +1,7 @@
 {
-    "android": [7, 1, 10],
-    "steam": [7, 1, 10],
-    "ios": [7, 1, 10],
+    "android": [7, 1, 12],
+    "steam": [7, 1, 12],
+    "ios": [7, 1, 12],
     "dailyBonusBonus": [0, 7.5, 15, 5, 15, 10, 10, 15, 10, 10],
     "charityEvent": false,
     "charityStreamOnline": false,
@@ -15,18 +15,14 @@
     "streamDate": [2025, 8, 29],
     "charityCodes": ["x", "x", "x"],
         "riddle": [
-{ "id":99, "question": "When things go wrong, you can always count on me. What am I?", "answer":"fingers", "author":""},
-{ "id":100, "question": "I have cities, but no houses. I have mountains, but no trees. I have rivers, but no fish. What am I?", "answer":"map", "author":""},
-{ "id":101, "question": "I give tons of rewards, playing me is a must, if you have more stars, i'll give you more dust. What am I?", "answer":"dungeon", "author":"MP"},
-{ "id":102, "question":  "Clear and salty, i can fit in an eye, yet weigh a ton. What am I?", "answer":"tear", "author":"Dale Vandermeer"},
-{ "id":103, "question": "What loses its head in the morning but gets it back at night?", "answer":"pillow", "author":"Cactus.Shnz"},
-{ "id":104, "question": "I get stronger, every time someone dies. If I get killed, I take them with me. My biggest fear is fire. What am I?", "answer":"scythe", "author":"Dark_Gen"},
-{ "id":105, "question": "I burn quietly, unseen, yet nothing outlasts me. I am what remains when strength is gone. What am I?", "answer":"will", "author":"Wato"},
-{ "id":106, "question": "I am tall when I am young, and short when I am old. My life is measured in hours, and I weep though I have no eyes. A single breath can bring me death. What am I?", "answer":"candle", "author":"YehorPomidor"},
-{ "id":107, "question": "I run with the hero, we're all in a line, I give all sorts of boosts, you can have 3 at a time. What am I?", "answer":"pet", "author":"MP"},
 { "id":108, "question": "I vanish when chased, but guide those who stand still. The wise follow me without knowing where I lead. What am I?", "answer":"instinct", "author":"Wato"},
 { "id":109, "question": "What kind of ship has two mates but no captain?", "answer":"relationship", "author":"cactus.shnz"},
-{ "id":110, "question": "I am no voice, yet I speak the loudest in silence. I cannot be taught, only realized. What am I?", "answer":"insight", "author":"Wato"}
+{ "id":110, "question": "I am no voice, yet I speak the loudest in silence. I cannot be taught, only realized. What am I?", "answer":"insight", "author":"Wato"},
+{ "id":111, "question": "I have legs, but I never walk. I can be covered in a feast, but I never eat. People gather around me to talk, but I have no voice. What am I?", "answer":"table", "author":"YehorPomidor"},
+{ "id":112, "question": "I speak when you speak, but say nothing of my own. What am I?", "answer":"echo", "author":"Wato"},
+{ "id":113, "question": "When broken i am correct only twice a day, what am i?", "answer":"clock", "author":"Naseem"},
+{ "id":114, "question": "Paul's height is six feet, he's an assistant at a butcher's shop, and wears size 9 shoes. What does he weigh?", "answer":"meat", "author":"cactus.shnz"},
+{ "id":115, "question": "I have no wings, yet I fly. I have no eyes, yet I cry. What am I?", "answer":"cloud", "author":"Wato"}
 ],
     "seasonalEvent": [{
         "id": 1,
