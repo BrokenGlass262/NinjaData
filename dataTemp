@@ -15,14 +15,16 @@
     "streamDate": [2025, 8, 29],
     "charityCodes": ["x", "x", "x"],
         "riddle": [
-{ "id":108, "question": "I vanish when chased, but guide those who stand still. The wise follow me without knowing where I lead. What am I?", "answer":"instinct", "author":"Wato"},
 { "id":109, "question": "What kind of ship has two mates but no captain?", "answer":"relationship", "author":"cactus.shnz"},
 { "id":110, "question": "I am no voice, yet I speak the loudest in silence. I cannot be taught, only realized. What am I?", "answer":"insight", "author":"Wato"},
 { "id":111, "question": "I have legs, but I never walk. I can be covered in a feast, but I never eat. People gather around me to talk, but I have no voice. What am I?", "answer":"table", "author":"YehorPomidor"},
-{ "id":112, "question": "I speak when you speak, but say nothing of my own. What am I?", "answer":"echo", "author":"Wato"},
-{ "id":113, "question": "When broken i am correct only twice a day, what am i?", "answer":"clock", "author":"Naseem"},
+{ "id":112, "question": "When broken i am correct only twice a day, what am i?", "answer":"clock", "author":"Naseem"},
+{ "id":113, "question": "I have no wings, yet I fly. I have no eyes, yet I cry. What am I?", "answer":"cloud", "author":"Wato"},
 { "id":114, "question": "Paul's height is six feet, he's an assistant at a butcher's shop, and wears size 9 shoes. What does he weigh?", "answer":"meat", "author":"cactus.shnz"},
-{ "id":115, "question": "I have no wings, yet I fly. I have no eyes, yet I cry. What am I?", "answer":"cloud", "author":"Wato"}
+{ "id":115, "question": "I have keys but no locks,<br>I have spaces but no rooms,<br>You can enter but can't leave.<br>What am I?", "answer":"Keyboard", "author":"Tato"},
+{ "id":116, "question": "I can lift your heart or crush it with weight unseen. I am invisible, but everyone feels me. What am I?", "answer":"emotion", "author":"Wato"},
+{ "id":117, "question": "I'm earned through time, and by the sword, I'm a ninja's sweet reward. While you rest, I stack and grow, spend me every week, and watch your buildings grow. What am I?", "answer":"gold", "author":"MP"},
+{ "id":118, "question": "What goes through cities and fields, but never moves?", "answer":"road", "author":"cactus.shnz"}
 ],
     "seasonalEvent": [{
         "id": 1,
