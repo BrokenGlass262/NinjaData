@@ -1,7 +1,7 @@
 {
-    "android": [7, 1, 13],
-    "steam": [7, 1, 13],
-    "ios": [7, 1, 13],
+    "android": [7, 1, 14],
+    "steam": [7, 1, 14],
+    "ios": [7, 1, 14],
     "dailyBonusBonus": [0, 7.5, 15, 5, 15, 10, 10, 15, 10, 10],
     "charityEvent": false,
     "charityStreamOnline": false,
@@ -82,6 +82,14 @@
         "id": 3,
         "startDate": [2026, 1, 2],
         "endDate": [2026, 2, 3],
+        "taskId": [0, 0, 0],
+        "taskGoalA": [0, 0, 0],
+        "taskGoalB": [0, 0, 0],
+        "taskGoalC": [0, 0, 0]
+    }, {
+        "id": 4,
+        "startDate": [2026, 3, 20],
+        "endDate": [2026, 5, 3],
         "taskId": [0, 0, 0],
         "taskGoalA": [0, 0, 0],
         "taskGoalB": [0, 0, 0],
