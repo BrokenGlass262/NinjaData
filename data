@@ -24,7 +24,11 @@
 { "id":115, "question": "I have keys but no locks,<br>I have spaces but no rooms,<br>You can enter but can't leave.<br>What am I?", "answer":"Keyboard", "author":"Tato"},
 { "id":116, "question": "I can lift your heart or crush it with weight unseen. I am invisible, but everyone feels me. What am I?", "answer":"emotion", "author":"Wato"},
 { "id":117, "question": "I'm earned through time, and by the sword, I'm a ninja's sweet reward. While you rest, I stack and grow, spend me every week, and watch your buildings grow. What am I?", "answer":"gold", "author":"MP"},
-{ "id":118, "question": "What goes through cities and fields, but never moves?", "answer":"road", "author":"cactus.shnz"}
+{ "id":118, "question": "What goes through cities and fields, but never moves?", "answer":"road", "author":"cactus.shnz"},
+{ "id":119, "question": "I fly without a sound,<br>I hunt without a light,<br>A silent keeper of insight.<br>What am I?", "answer":"owl", "author":"imWeaRyy"},
+{ "id":120, "question": "I have no mouth, yet I tell stories. I live only when you open your eyes. What am I?", "answer":"book", "author":"Wato"},
+{ "id":121, "question": "I follow you with every step but never make a sound.<br>I shrink at noon, stretch at dusk, and vanish when the light goes out.<br>I copy your shape but cannot hold a thing. What am I?", "answer":"shadow", "author":"Carolo Khoa"},
+{ "id":122, "question": "What is always in front of you, but can’t be seen?", "answer":"future", "author":"cactus.shnz"}
 ],
     "seasonalEvent": [{
         "id": 1,
