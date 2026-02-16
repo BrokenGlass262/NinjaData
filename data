@@ -14,21 +14,17 @@
     "dailyBonusTypeB": [1, 2, 9, 3, 4, 6, 5],
     "streamDate": [2026, 8, 29],
     "charityCodes": ["x", "x", "x"],
-        "riddle": [
-{ "id":109, "question": "What kind of ship has two mates but no captain?", "answer":"relationship", "author":"cactus.shnz"},
-{ "id":110, "question": "I am no voice, yet I speak the loudest in silence. I cannot be taught, only realized. What am I?", "answer":"insight", "author":"Wato"},
-{ "id":111, "question": "I have legs, but I never walk. I can be covered in a feast, but I never eat. People gather around me to talk, but I have no voice. What am I?", "answer":"table", "author":"YehorPomidor"},
-{ "id":112, "question": "When broken i am correct only twice a day, what am i?", "answer":"clock", "author":"Naseem"},
-{ "id":113, "question": "I have no wings, yet I fly. I have no eyes, yet I cry. What am I?", "answer":"cloud", "author":"Wato"},
-{ "id":114, "question": "Paul's height is six feet, he's an assistant at a butcher's shop, and wears size 9 shoes. What does he weigh?", "answer":"meat", "author":"cactus.shnz"},
-{ "id":115, "question": "I have keys but no locks,<br>I have spaces but no rooms,<br>You can enter but can't leave.<br>What am I?", "answer":"Keyboard", "author":"Tato"},
+    "riddle": [
 { "id":116, "question": "I can lift your heart or crush it with weight unseen. I am invisible, but everyone feels me. What am I?", "answer":"emotion", "author":"Wato"},
 { "id":117, "question": "I'm earned through time, and by the sword, I'm a ninja's sweet reward. While you rest, I stack and grow, spend me every week, and watch your buildings grow. What am I?", "answer":"gold", "author":"MP"},
 { "id":118, "question": "What goes through cities and fields, but never moves?", "answer":"road", "author":"cactus.shnz"},
 { "id":119, "question": "I fly without a sound,<br>I hunt without a light,<br>A silent keeper of insight.<br>What am I?", "answer":"owl", "author":"imWeaRyy"},
 { "id":120, "question": "I have no mouth, yet I tell stories. I live only when you open your eyes. What am I?", "answer":"book", "author":"Wato"},
 { "id":121, "question": "I follow you with every step but never make a sound.<br>I shrink at noon, stretch at dusk, and vanish when the light goes out.<br>I copy your shape but cannot hold a thing. What am I?", "answer":"shadow", "author":"Carolo Khoa"},
-{ "id":122, "question": "What is always in front of you, but can’t be seen?", "answer":"future", "author":"cactus.shnz"}
+{ "id":122, "question": "I reflect everything but reveal nothing of my own. I can show truth or illusion, depending on who looks. What am I?", "answer":"mirror", "author":"Wato"},
+{ "id":123, "question": "What is always in front of you, but can’t be seen?", "answer":"future", "author":"cactus.shnz"},
+{ "id":124, "question": "I move in one direction, yet leave everything behind. I heal all wounds, but destroy all things. What am I?", "answer":"time", "author":"Wato"},
+{ "id":125, "question": "I am always hungry, I must always be fed, the finger I touch will soon turn red. What am I?", "answer":"fire", "author":"Cara_do_Zap - Zap"}
 ],
     "seasonalEvent": [{
         "id": 1,
