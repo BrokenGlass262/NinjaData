@@ -34,10 +34,12 @@
 { "id":139, "question": "The man who invented it doesn't want it. The man who bought it doesn't need it. The man who needs it doesn't know it. What am I?", "answer":"Coffin", "author":"Nergal"},
 { "id":140, "question": "I speak when you speak, but say nothing of my own. What am I?", "answer":"echo", "author":"Wato"},
 { "id":141, "question": "I have keys but no locks,<br>space but no room,<br>and you poke me all day.<br>What am I?", "answer":"Keyboard", "author":"Iamsnail"},
-{ "id":142, "question": "I am celebrating the 5 year anniversary this week. What am I?", "answer":"tap ninja"},
+{ "id":142, "question": "In darkness I do not show, but in light I do glow. I have no face, yet I can take your place. Stare at me without a crack, you'll find me staring right back. What am I?", "answer":"mirror", "author":"cool guy"},
 { "id":143, "question": "I start with the letter E, I end with the letter E. I contain only one letter, yet I am not the letter E! What am I?", "answer":"envelope", "author":"Bexsta"},
-{ "id":144, "question": "In darkness I do not show, but in light I do glow. I have no face, yet I can take your place. Stare at me without a crack, you'll find me staring right back. What am I?", "answer":"mirror", "author":"cool guy"},
-{ "id":145, "question": "What have I got in my pocket?", "answer":"ring", "author":"Bilbo Baggins"}
+{ "id":144, "question": "I am celebrating the 5 year anniversary this week. What am I?", "answer":"tap ninja"},
+{ "id":145, "question": "I have dates but no romance,<br>pages but no spine,<br>and I’m always up to date.<br>What am I?", "answer":"Calendar", "author":"Iamsnail"},
+{ "id":146, "question": "I am the fire that does not burn. I consume fear and forge clarity. What am I?", "answer":"purpose", "author":"Wato"},
+{ "id":147, "question": "What have I got in my pocket?", "answer":"ring", "author":"Bilbo Baggins"}
     ],
     "seasonalEvent": [{
         "id": 1,
