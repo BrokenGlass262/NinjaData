@@ -81,6 +81,14 @@
         "taskGoalA": [0, 0, 0],
         "taskGoalB": [0, 0, 0],
         "taskGoalC": [0, 0, 0]
+    }, {
+        "id": 6,
+        "startDate": [2026, 8, 14],
+        "endDate": [2026, 9, 13],
+        "taskId": [0, 0, 0],
+        "taskGoalA": [0, 0, 0],
+        "taskGoalB": [0, 0, 0],
+        "taskGoalC": [0, 0, 0]
     }],
     "blacklistedVersion": []
 }
