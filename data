@@ -1,6 +1,6 @@
 {
-    "android": [7, 1, 24],
-    "steam": [7, 1, 24],
+    "android": [7, 1, 25],
+    "steam": [7, 1, 25],
     "ios": [7, 1, 24],
     "dailyBonusBonus": [0, 7.5, 15, 5, 15, 10, 10, 15, 10, 10],
     "charityEvent": false,
