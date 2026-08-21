@@ -13,7 +13,7 @@
     "dailyBonusTypeA": [1, 2, 8, 7, 3, 6, 5],
     "dailyBonusTypeB": [1, 2, 9, 3, 4, 6, 5],
     "streamDate": [2026, 8, 30],
-    "charityCodes": ["peanut butter", "almond butter"],
+    "charityCodes": ["peanutbutter", "almondbutter"],
     "riddle": [
 { "id": 123, "question": "What is always in front of you, but can’t be seen?", "answer": "future", "author": "cactus.shnz" },
 { "id": 124, "question": "I move in one direction, yet leave everything behind. I heal all wounds, but destroy all things. What am I?", "answer": "time", "author": "Wato" },
