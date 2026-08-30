@@ -4,43 +4,141 @@
     "ios": [7, 1, 27],
     "dailyBonusBonus": [0, 7.5, 15, 5, 15, 10, 10, 15, 10, 10],
     "charityEvent": true,
-    "charityStreamOnline": true,
+    "charityStreamOnline": false,
     "streamLink": "https://www.twitch.tv/shamahan",
     "streamTimeUtc": 16,
     "bannerMinCost": "$25",
-    "topDonors": "Be the first at the top!",
-    "allDonors": "Be the first to donate!",
+    "topDonors": "1: Nice Amaya<br>2: TheChampTF<br>3: Ninja Sakura<br>4: Cotorentin<br>5: noddler<br>Maralle, FireMonkees, i eat children, Kaoru Dark, Djut",
+    "allDonors": "DeanQDJ, francus, Greg, bloodtobleed, ewen1904, Das mega Noob, Munchy, Regulartime, arecha, Bert, ChanzDaCracka, Gorday, HOO-DINII, kompakd, mrvodkaaa, PPFez, SirChris24, vitsarut.n, Aielthas Shadestrider, Brain, ChayseCat, Damon182004, diariodelcazador, don_banan, ElwanDH, Garmen12_CZE, Ghostflame21786, goffrybrine, Hidetaka Nakazawa, Kissu., Kravew, lingering-mountain-481, Machu, Matt, MaximusCheese, mrtroulolol, Neoproxia, Pol200, Prof. Carvalho, rieksthina, Robert Drillen, SFKimiRaikkonen, SnowyFPS, ssomethingss, Supemitas, Tanyala, tchow, Uhellsing, very_very_cool_person, WhackyDeli, WICKED, loonyrooster, TeaSea!",
     "dailyBonusTypeA": [1, 2, 8, 7, 3, 6, 5],
     "dailyBonusTypeB": [1, 2, 9, 3, 4, 6, 5],
     "streamDate": [2026, 8, 30],
     "charityCodes": ["peanutbutter", "almondbutter"],
-    "riddle": [
-{ "id": 123, "question": "What is always in front of you, but can’t be seen?", "answer": "future", "author": "cactus.shnz" },
-{ "id": 124, "question": "I move in one direction, yet leave everything behind. I heal all wounds, but destroy all things. What am I?", "answer": "time", "author": "Wato" },
-{ "id":125, "question": "I am always hungry, I must always be fed, the finger I touch will soon turn red. What am I?", "answer":"fire", "author":"Cara_do_Zap - Zap"},
-{ "id":126, "question": "Since the beginning we cross ways, but when you miss me, I take something from you. What Am I?", "answer":"Samurai", "author":"ErXD"},
-{ "id":127, "question": "I grow when you ignore me,<br>but vanish when you face me.<br>I live in minds, not places.<br>What am I?", "answer":"Fear", "author":"GalaxyKnight387"},
-{ "id":128, "question": "I am a key, but I have no keyhole.<br>I guide musicians and help them read notes.<br>What am I?", "answer":"Clef", "author":"Sunbow420"},
-{ "id":129, "question": "I sometimes run, but can't walk. What am I?", "answer":"Nose", "author":"Heps"},
-{ "id":130, "question": "Every day is a test,<br>deal with me to get rest.<br>What am I?", "answer":"quest", "author":"Tato"},
-{ "id":131, "question": "I have two forms. I'm pretty tough, but only on high health. My biggest friend is a fish. What am I?", "answer":"Fin", "author":"Dark_Gen"},
-{ "id":132, "question": "I am a magical mix of a horse and an rhinoceros. What am I?", "answer":"unicorn", "author":"Nice Amaya"},
-{ "id":133, "question": "I can be deep, but also just on the surface. Sometimes you see me, sometimes no one notices me. Only time makes sure I perish. What am I?", "answer":"wound", "author":"Ruka"},
-{ "id":134, "question": "I am sharp and dangerous, yet some people collect me, some are scared of me, I am also long but fragile. What am I?", "answer":"katana", "author":"shadoww"},
-{ "id":135, "question": "I am older than time but die every second.<br>I have no body, yet I wear countless faces.<br>I am chased by all, held by none.<br>Those who find me never know until I'm gone.", "answer":"moment", "author":"buzz tea"},
-{ "id":136, "question": "I dance where few can reach the sky,<br>lighting the night without a flame.<br>Many chase me dreaming of fortune,<br>yet I leave gifts to those who wait.<br>What am I?", "answer":"Dragonfly", "author":"Maka"},
-{ "id":137, "question": "When you need me, you throw me away. When you don’t need me, you bring me back. What am I?", "answer":"Anchor", "author":"Nergal"},
-{ "id":138, "question": "I dress for formality at every meal, yet slipping is part of my daily ordeal. I'm grounded by nature, but master the sea. What am I?", "answer":"penguin", "author":"Dr.No"},
-{ "id":139, "question": "The man who invented it doesn't want it. The man who bought it doesn't need it. The man who needs it doesn't know it. What am I?", "answer":"Coffin", "author":"Nergal"},
-{ "id":140, "question": "I speak when you speak, but say nothing of my own. What am I?", "answer":"echo", "author":"Wato"},
-{ "id":141, "question": "I have keys but no locks,<br>space but no room,<br>and you poke me all day.<br>What am I?", "answer":"Keyboard", "author":"Iamsnail"},
-{ "id":142, "question": "In darkness I do not show, but in light I do glow. I have no face, yet I can take your place. Stare at me without a crack, you'll find me staring right back. What am I?", "answer":"mirror", "author":"cool guy"},
-{ "id":143, "question": "I start with the letter E, I end with the letter E. I contain only one letter, yet I am not the letter E! What am I?", "answer":"envelope", "author":"Bexsta"},
-{ "id":144, "question": "I am celebrating the 5 year anniversary this week. What am I?", "answer":"tap ninja"},
-{ "id":145, "question": "I have dates but no romance,<br>pages but no spine,<br>and I’m always up to date.<br>What am I?", "answer":"Calendar", "author":"Iamsnail"},
-{ "id":146, "question": "I have a head and a tail and I am brown but I dont have legs. What am I?", "answer":"Penny", "author":"xusolosx"},
-{ "id":147, "question": "What have I got in my pocket?", "answer":"ring", "author":"Bilbo Baggins"}
-],
+    "riddle": [{
+        "id": 123,
+        "question": "What is always in front of you, but can’t be seen?",
+        "answer": "future",
+        "author": "cactus.shnz"
+    }, {
+        "id": 124,
+        "question": "I move in one direction, yet leave everything behind. I heal all wounds, but destroy all things. What am I?",
+        "answer": "time",
+        "author": "Wato"
+    }, {
+        "id": 125,
+        "question": "I am always hungry, I must always be fed, the finger I touch will soon turn red. What am I?",
+        "answer": "fire",
+        "author": "Cara_do_Zap - Zap"
+    }, {
+        "id": 126,
+        "question": "Since the beginning we cross ways, but when you miss me, I take something from you. What Am I?",
+        "answer": "Samurai",
+        "author": "ErXD"
+    }, {
+        "id": 127,
+        "question": "I grow when you ignore me,<br>but vanish when you face me.<br>I live in minds, not places.<br>What am I?",
+        "answer": "Fear",
+        "author": "GalaxyKnight387"
+    }, {
+        "id": 128,
+        "question": "I am a key, but I have no keyhole.<br>I guide musicians and help them read notes.<br>What am I?",
+        "answer": "Clef",
+        "author": "Sunbow420"
+    }, {
+        "id": 129,
+        "question": "I sometimes run, but can't walk. What am I?",
+        "answer": "Nose",
+        "author": "Heps"
+    }, {
+        "id": 130,
+        "question": "Every day is a test,<br>deal with me to get rest.<br>What am I?",
+        "answer": "quest",
+        "author": "Tato"
+    }, {
+        "id": 131,
+        "question": "I have two forms. I'm pretty tough, but only on high health. My biggest friend is a fish. What am I?",
+        "answer": "Fin",
+        "author": "Dark_Gen"
+    }, {
+        "id": 132,
+        "question": "I am a magical mix of a horse and an rhinoceros. What am I?",
+        "answer": "unicorn",
+        "author": "Nice Amaya"
+    }, {
+        "id": 133,
+        "question": "I can be deep, but also just on the surface. Sometimes you see me, sometimes no one notices me. Only time makes sure I perish. What am I?",
+        "answer": "wound",
+        "author": "Ruka"
+    }, {
+        "id": 134,
+        "question": "I am sharp and dangerous, yet some people collect me, some are scared of me, I am also long but fragile. What am I?",
+        "answer": "katana",
+        "author": "shadoww"
+    }, {
+        "id": 135,
+        "question": "I am older than time but die every second.<br>I have no body, yet I wear countless faces.<br>I am chased by all, held by none.<br>Those who find me never know until I'm gone.",
+        "answer": "moment",
+        "author": "buzz tea"
+    }, {
+        "id": 136,
+        "question": "I dance where few can reach the sky,<br>lighting the night without a flame.<br>Many chase me dreaming of fortune,<br>yet I leave gifts to those who wait.<br>What am I?",
+        "answer": "Dragonfly",
+        "author": "Maka"
+    }, {
+        "id": 137,
+        "question": "When you need me, you throw me away. When you don’t need me, you bring me back. What am I?",
+        "answer": "Anchor",
+        "author": "Nergal"
+    }, {
+        "id": 138,
+        "question": "I dress for formality at every meal, yet slipping is part of my daily ordeal. I'm grounded by nature, but master the sea. What am I?",
+        "answer": "penguin",
+        "author": "Dr.No"
+    }, {
+        "id": 139,
+        "question": "The man who invented it doesn't want it. The man who bought it doesn't need it. The man who needs it doesn't know it. What am I?",
+        "answer": "Coffin",
+        "author": "Nergal"
+    }, {
+        "id": 140,
+        "question": "I speak when you speak, but say nothing of my own. What am I?",
+        "answer": "echo",
+        "author": "Wato"
+    }, {
+        "id": 141,
+        "question": "I have keys but no locks,<br>space but no room,<br>and you poke me all day.<br>What am I?",
+        "answer": "Keyboard",
+        "author": "Iamsnail"
+    }, {
+        "id": 142,
+        "question": "In darkness I do not show, but in light I do glow. I have no face, yet I can take your place. Stare at me without a crack, you'll find me staring right back. What am I?",
+        "answer": "mirror",
+        "author": "cool guy"
+    }, {
+        "id": 143,
+        "question": "I start with the letter E, I end with the letter E. I contain only one letter, yet I am not the letter E! What am I?",
+        "answer": "envelope",
+        "author": "Bexsta"
+    }, {
+        "id": 144,
+        "question": "I am celebrating the 5 year anniversary this week. What am I?",
+        "answer": "tap ninja"
+    }, {
+        "id": 145,
+        "question": "I have dates but no romance,<br>pages but no spine,<br>and I’m always up to date.<br>What am I?",
+        "answer": "Calendar",
+        "author": "Iamsnail"
+    }, {
+        "id": 146,
+        "question": "I have a head and a tail and I am brown but I dont have legs. What am I?",
+        "answer": "Penny",
+        "author": "xusolosx"
+    }, {
+        "id": 147,
+        "question": "What have I got in my pocket?",
+        "answer": "ring",
+        "author": "Bilbo Baggins"
+    }],
     "seasonalEvent": [{
         "id": 1,
         "startDate": [2025, 8, 24],
