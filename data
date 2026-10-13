@@ -15,21 +15,17 @@
     "streamDate": [2026, 8, 30],
     "charityCodes": ["peanutbutter", "almondbutter"],
     "riddle": [
-{ "id":144, "question": "I am celebrating the 5 year anniversary this week. What am I?", "answer":"tap ninja"},
-{ "id":145, "question": "I have dates but no romance,<br>pages but no spine,<br>and I’m always up to date.<br>What am I?", "answer":"Calendar", "author":"Iamsnail"},
-{ "id":146, "question": "I have a head and a tail and I am brown but I dont have legs. What am I?", "answer":"Penny", "author":"xusolosx"},
-{ "id":147, "question": "What have I got in my pocket?", "answer":"ring", "author":"Bilbo Baggins"},
-{ "id":148, "question": "I can have no color, though there may be darkness within me. I have no weight and hold nothing, and if put into a container, it becomes lighter. What am I?", "answer":"hole", "author":"Nergal"},
 { "id":149, "question": "I am what you looking for every week. I make things clear. I give you what you want to know. What am I?", "answer":"answer", "author":"Dark_Gen"},
 { "id":150, "question": "I have holes on the top and bottom, holes on my left and right, and even holes in the middle, yet I still hold water.", "answer":"sponge", "author":"TheChampTF"},
 { "id":151, "question": "I begin with 'T', end with 'T', and I'm used to hold hot 'T'.", "answer":"teapot", "author":"Valehnar"},
-{ "id":152, "question": "Who lives in a house without doors and windows?", "answer":"snail", "author":"Gabi"},
+{ "id":152, "question": "Almost everyone in the community is asking about me. What am I?", "answer":"update", "author":"Nice Amaya"},
 { "id":153, "question": "I wear a green stem for a hat and grow on the ground. In October, you scoop out my insides and give me a face with a knife. Then you put a fire in my belly so I can grin in the dark. What am I?", "answer":"pumpkin", "author":"YehorPomidor"},
-{ "id":154, "question": "I have a mouth but cannot speak.<br>I have a bed but never sleep.<br>I run forever but have no legs.<br>What am I?", "answer":"river", "author":"SonnyE"},
-{ "id":155, "question": "I have a heart that never beats, and a bed that never sleeps. I can run for miles without any legs, yet I have no feet to stumble. If I get too angry, I’ll take your house; if I get too weak, you’ll go thirsty.", "answer":"river", "author":"TheChampTF"},
-{ "id":156, "question": "What has eyes but cannot see?", "answer":"potato", "author":"Gabi"},
-{ "id":157, "question": "I don't have wings, but I can fly. What am I?", "answer":"time", "author":"Commahaedeen"}
-        ],
+{ "id":154, "question": "Who lives in a house without doors and windows?", "answer":"snail", "author":"Gabi"},
+{ "id":155, "question": "I have a mouth but cannot speak.<br>I have a bed but never sleep.<br>I run forever but have no legs.<br>What am I?", "answer":"river", "author":"SonnyE"},
+{ "id":156, "question": "I have a heart that never beats, and a bed that never sleeps. I can run for miles without any legs, yet I have no feet to stumble. If I get too angry, I’ll take your house; if I get too weak, you’ll go thirsty.", "answer":"river", "author":"TheChampTF"},
+{ "id":157, "question": "What has eyes but cannot see?", "answer":"potato", "author":"Gabi"},
+{ "id":158, "question": "I don't have wings, but I can fly. What am I?", "answer":"time", "author":"Commahaedeen"}
+],
     "seasonalEvent": [{
         "id": 1,
         "startDate": [2025, 8, 24],
