@@ -13,7 +13,7 @@
     "dailyBonusTypeA": [1, 2, 8, 7, 3, 6, 5],
     "dailyBonusTypeB": [1, 2, 9, 3, 4, 6, 5],
     "streamDate": [2026, 8, 30],
-    "charityCodes": ["peanutbutter", "almondbutter"],
+    "charityCodes": [],
     "riddle": [
 { "id":149, "question": "I am what you looking for every week. I make things clear. I give you what you want to know. What am I?", "answer":"answer", "author":"Dark_Gen"},
 { "id":150, "question": "I have holes on the top and bottom, holes on my left and right, and even holes in the middle, yet I still hold water.", "answer":"sponge", "author":"TheChampTF"},
