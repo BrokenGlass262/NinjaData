@@ -52,8 +52,8 @@
         "endDate": [2026, 9, 20]
     }, {
         "id": 7,
-        "startDate": [2026, 11, 6],
-        "endDate": [2026, 12, 13]
+        "startDate": [2026, 12, 11],
+        "endDate": [2027, 1, 22]
     }],
     "blacklistedVersion": []
 }
